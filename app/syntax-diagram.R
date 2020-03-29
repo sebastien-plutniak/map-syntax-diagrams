@@ -1,9 +1,9 @@
 library(igraph)
-# library(reshape2) # pour melt()
+library(reshape2) # pour melt()
 library(TraMineR) # pour seqdef(), seqtrate()
 library(geomorph) # pour rotate.coords() (rotation des coordonnées)
 library(plyr) # pour rbind.fill()
-library(xtable)
+library(xtable) # pas utile dans le cadre de l'application
 
 
 # fct ajoutant les formules reformatées:
@@ -47,29 +47,27 @@ make_map_sequence <- function(df){
   seq
 }
 
+# # Fct transformant la matrice de transition en graphe:
+# map_seq_graph <- function(trans.matrix, from.level){
+#   elist <- trans.matrix[,, from.level]
+#   elist <- data.frame(Var1 = rownames(elist), Var2=colnames(elist), "weight"=c(elist))
+#   # set vertices names:
+#   elist$Var1 <- gsub("^\\[(.) ->\\]", "\\1", elist$Var1, perl=T)
+#   elist$Var1 <- paste(elist$Var1, from.level-1, sep="")
+#   elist$Var2 <- gsub("^\\[-> (.)\\]", "\\1", elist$Var2, perl=T)
+#   elist$Var2 <- paste(elist$Var2, from.level, sep="")
+#   # create and clean graph
+#   g <- graph_from_data_frame(elist)
+#   g <- delete_edges(g, E(g)[E(g)$weight ==0]) 
+#   g <- delete_vertices(g, degree(g)==0)
+#   g
+# }
 # Fct transformant la matrice de transition en graphe:
 map_seq_graph <- function(trans.matrix, from.level){
   elist <- trans.matrix[,, from.level]
-  elist <- data.frame(Var1 = rownames(elist), Var2=colnames(elist), "weight"=c(elist))
-  # elist <- melt(elist, value.name = "weight")
-  # set vertices names:
-  elist$Var1 <- gsub("^\\[(.) ->\\]", "\\1", elist$Var1, perl=T)
-  elist$Var1 <- paste(elist$Var1, from.level-1, sep="")
-  elist$Var2 <- gsub("^\\[-> (.)\\]", "\\1", elist$Var2, perl=T)
-  elist$Var2 <- paste(elist$Var2, from.level, sep="")
-  # create and clean graph
-  g <- graph_from_data_frame(elist)
-  g <- delete_edges(g, E(g)[E(g)$weight ==0]) 
-  g <- delete_vertices(g, degree(g)==0)
-  g
-}
-
-
-
-# Fct transformant la matrice de transition en graphe:
-map_seq_graph <- function(trans.matrix, from.level){
-  elist <- trans.matrix[,, from.level]
-  # elist <- data.frame(Var1 = rownames(elist), Var2=colnames(elist), weight=c(elist))
+  # elist <- data.frame(Var1 = rownames(elist[]),
+  #                     Var2=colnames(elist),
+  #                     weight=c(elist))
   elist <- melt(elist, value.name = "weight")
   # set vertices names:
   elist$Var1 <- gsub("^\\[(.) ->\\]", "\\1", elist$Var1, perl=T)
@@ -83,7 +81,7 @@ map_seq_graph <- function(trans.matrix, from.level){
   g
 }
 
-# Fct fussionnant deux graphes en conservant les attributs:
+# Fct fusionnant deux graphes en conservant les attributs:
 join_map_graphs <- function(g1, g2){
   g <- graph.union(g1, g2)
   if(is.null(E(g)$weight_1)) return(g)

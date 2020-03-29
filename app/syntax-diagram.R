@@ -1,14 +1,17 @@
 library(igraph)
-library(reshape2) # pour melt
-library(TraMineR)
-library(geomorph) # pour la rotation des coordonnées 
-library(plyr) # pour rbind.fill
+# library(reshape2) # pour melt()
+library(TraMineR) # pour seqdef(), seqtrate()
+library(geomorph) # pour rotate.coords() (rotation des coordonnées)
+library(plyr) # pour rbind.fill()
 library(xtable)
 
 
 # fct ajoutant les formules reformatées:
 make_map_formula <- function(df){
-  # sélection de la première formule s'il en existe plusieurs versions:
+  # récupération des données de la colonne des formules
+  df$formule <- df[,which(names(df) %in% c("formule", "FORMULE", "formule", "FORMULES"))]
+
+    # sélection de la première formule s'il en existe plusieurs versions:
   df$formule.splited <- unlist(lapply(df$formule,
                           function(x) unlist(strsplit(x, "<br>"))[1] ))
   
@@ -47,13 +50,33 @@ make_map_sequence <- function(df){
 # Fct transformant la matrice de transition en graphe:
 map_seq_graph <- function(trans.matrix, from.level){
   elist <- trans.matrix[,, from.level]
-  elist <- melt(elist, value.name = "weight")
+  elist <- data.frame(Var1 = rownames(elist), Var2=colnames(elist), "weight"=c(elist))
+  # elist <- melt(elist, value.name = "weight")
   # set vertices names:
   elist$Var1 <- gsub("^\\[(.) ->\\]", "\\1", elist$Var1, perl=T)
   elist$Var1 <- paste(elist$Var1, from.level-1, sep="")
   elist$Var2 <- gsub("^\\[-> (.)\\]", "\\1", elist$Var2, perl=T)
   elist$Var2 <- paste(elist$Var2, from.level, sep="")
   # create and clean graph
+  g <- graph_from_data_frame(elist)
+  g <- delete_edges(g, E(g)[E(g)$weight ==0]) 
+  g <- delete_vertices(g, degree(g)==0)
+  g
+}
+
+
+
+# Fct transformant la matrice de transition en graphe:
+map_seq_graph <- function(trans.matrix, from.level){
+  elist <- trans.matrix[,, from.level]
+  # elist <- data.frame(Var1 = rownames(elist), Var2=colnames(elist), weight=c(elist))
+  elist <- melt(elist, value.name = "weight")
+  # set vertices names:
+  elist$Var1 <- gsub("^\\[(.) ->\\]", "\\1", elist$Var1, perl=T)
+  elist$Var1 <- paste(elist$Var1, from.level-1, sep="")
+  elist$Var2 <- gsub("^\\[-> (.)\\]", "\\1", elist$Var2, perl=T)
+  elist$Var2 <- paste(elist$Var2, from.level, sep="")
+  # create and clean graph:
   g <- graph_from_data_frame(elist)
   g <- delete_edges(g, E(g)[E(g)$weight ==0]) 
   g <- delete_vertices(g, degree(g)==0)
@@ -107,7 +130,8 @@ map_seq_plot <- function(g, type="normal", main=""){
          vertex.label = V(g)$name2,
          layout =  g$layout,
          edge.arrow.size=.3,  edge.arrow.width = 1,
-         edge.width = E(g)$weight * 3 + 1,
+         # edge.width = E(g)$weight * 3 + 1, # pour les proba
+         edge.width = 1 + scale(E(g)$count, center=F  ), # fréquences
          edge.label = round(E(g)$weight, 2),
          edge.color = as.character(factor(E(g)$weight,
                                           levels = sort(unique(E(g)$weight)),
@@ -118,7 +142,7 @@ map_seq_plot <- function(g, type="normal", main=""){
   }
   # ajout habillage :
   axis(1, unique(g$layout[,1]), 
-       0:c(length(unique(g$layout[,1]))-1))
+       0:c(length(unique(g$layout[,1]))-1))  # todo modif
   title(xlab = "Symbols ranks")
 }
 
@@ -151,7 +175,9 @@ map_seq_diff <- function(g1, g2){
   g
 }
 
-# fct renvoyant la moyenne des pondérations des arêtes des plus courts chemins:
+
+# fct renvoyant la moyenne des pondérations des arêtes des plus 
+# courts chemins entre le symbol initial et les symboles terminaux.
 .shortest.path.weight.mean <-  function(g){
   edges <- shortest_paths(g, from = V(g)[1],
                           to = V(g)[degree(g, mode= "out") == 0],

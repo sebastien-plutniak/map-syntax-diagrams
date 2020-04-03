@@ -1,1538 +1,1538 @@
-"formule","Grande.région","lang"
-"{1}#{2}","Grèce continentale","hors Chypre"
-"{3}+[{4}#{5}]+{6}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{9}#{10}","Chypre","grec"
-"{11}#{12}","Chypre","grec"
-"{39}#{48}","Proche-Orient","hors Chypre"
-"{54}#{55}","Grèce continentale","hors Chypre"
-"{17}#{19}","Chypre","grec"
-"{9}#{20}","Chypre","grec"
-"{9}#{20}","Chypre","grec"
-"{215}#{39}","Chypre","phénicien"
-"{59}#{196}","Chypre","phénicien"
-"{48}#[{59}#{196}]","Chypre","phénicien"
-"{215}#{39}","Iles égéennes","hors Chypre"
-"[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"{50}/{51}","Chypre","phénicien"
-"{50}#{51}","Chypre","phénicien"
-"{48}#[{50}/{51}]","Chypre","phénicien"
-"{48}#[{50}#{51}]","Chypre","phénicien"
-"{48}#[{50}/{51}]","Chypre","phénicien"
-"{48}#[{50}#{51}]","Chypre","phénicien"
-"{50}/{51}","Chypre","phénicien"
-"{50}#{51}","Chypre","phénicien"
-"[{215}#[{45}[#{46}#{47}]]]+[{48}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"{50}/{51}","Chypre","phénicien"
-"{50}#{51}","Chypre","phénicien"
-"{50}/{51}","Chypre","phénicien"
-"{50}#{51}","Chypre","phénicien"
-"{9}#{32}","Grèce continentale","hors Chypre"
-"{48}#[{50}#{51}]","Chypre","phénicien"
-"{48}#[{50}/{51}]","Chypre","phénicien"
-"{47}#{308}","Chypre","phénicien"
-"{47}#{53}","Grèce continentale","hors Chypre"
-"{215}#[{56}#{57}]","Chypre","phénicien"
-"{48}#{50}","Chypre","phénicien"
-"{58}[#{59}#{60}]","Chypre","phénicien"
-"{58}#[{59}/{60}]","Chypre","phénicien"
-"{48}#[{59}#{61}]","Chypre","phénicien"
-"{48}#[{59}#{62}]","Chypre","phénicien"
-"{4}#{8}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{4}#{27}","Chypre","grec"
-"{27}","Chypre","grec"
-"{63}#{64}","Chypre","grec"
-"{28}#{65}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{26}#{25}","Chypre","grec"
-"[{429}/{67}]#{66}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"[{28}#{68}]+[{4}#{70}]","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{1}/{28}","Chypre","grec"
-"{28}#{72}","Chypre","grec"
-"[{1}#{73}]+[{74}#{28}]","Chypre","grec"
-"[{1}#{75}]+[{1}#{73}]","Chypre","grec"
-"[{1}#{73}]+[{1}#{75}]+[{6}#{76}]","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{28}#{78}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"[{1}/{79}]+[{1}#{73}]","Chypre","grec"
-"[{1}/{79}]+[{1}#{73}]","Chypre","grec"
-"[{1}#{73}]+[{1}/{79}]","Chypre","grec"
-"[{1}#{73}]+[{1}/{79}]","Chypre","grec"
-"{1}/{79}","Chypre","grec"
-"[{1}/{79}]+[{1}#{73}]","Chypre","grec"
-"[{1}#{73}]+[{1}/{79}]","Chypre","grec"
-"[{1}#{73}]+[{1}/{79}]","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"[{1}#{73}]+[{1}/{79}]","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"[{93}+{93}]#{11}","Égypte et Nubie","hors Chypre"
-"{94}#{93}","Égypte et Nubie","hors Chypre"
-"{95}/[{28}#{93}]/{96}","Égypte et Nubie","hors Chypre"
-"{26}#{98}/{28}","Égypte et Nubie","hors Chypre"
-"[{26}#{28}]#([{99}/{28}#{93}]+{100}+[{95}#{101}])+[{102}/{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{28}/{3}","Chypre","grec"
-"[{4}#{27}]+[{15}#{103}]","Chypre","grec"
-"{28}/{104}","Égypte et Nubie","hors Chypre"
-"{26}#{104}","Égypte et Nubie","hors Chypre"
-"{104}#{93}","Égypte et Nubie","hors Chypre"
-"{1}#{105}","Chypre","grec"
-"{9}#{10}","Chypre","grec"
-"[{93}#{28}]/{106}","Égypte et Nubie","hors Chypre"
-"{9}#{10}","Chypre","grec"
-"{9}#{10}","Chypre","grec"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{104}/{28}","Égypte et Nubie","hors Chypre"
-"{104}#{28}","Égypte et Nubie","hors Chypre"
-"{64}#{107}","Égypte et Nubie","hors Chypre"
-"[{4}#{108}]/{3}/{214}/{314}/{109}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{112}","Chypre","grec"
-"{322}#{108}","Chypre","grec"
-"{322}#{108}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{1}/{114}","Chypre","grec"
-"{116}#{3}","Chypre","grec"
-"[[{93}#{28}]#{117}]#{3}","Chypre","grec"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{4}={118}#{93}","Égypte et Nubie","hors Chypre"
-"{119}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{113}/{114}","Chypre","grec"
-"{28}/{104}","Égypte et Nubie","hors Chypre"
-"{113}/{114}","Chypre","grec"
-"{1}#{120}","Chypre","grec"
-"{120}","Chypre","grec"
-"{1}#{120}","Chypre","grec"
-"{1}#{120}","Chypre","grec"
-"{1}#{121}","Chypre","grec"
-"[{47}#{126}]#{48}","Chypre","phénicien"
-"{13}#{130}","Grèce continentale","hors Chypre"
-"{16}#{134}","Grèce continentale","hors Chypre"
-"{135}#{28}","Grèce continentale","hors Chypre"
-"{135}#{28}","Grèce continentale","hors Chypre"
-"({136}+{74})#{137}","Grèce continentale","hors Chypre"
-"{136}+({74}#{137})","Grèce continentale","hors Chypre"
-"{136}+[{74}#{137}]","Grèce continentale","hors Chypre"
-"{48}#[{47}#{126}]","Chypre","phénicien"
-"{129}+[{4}#{127}]","Iles égéennes","hors Chypre"
-"[[{131}#{28}]#{132}]#{133}","Égypte et Nubie","hors Chypre"
-"{58}#[[{59}#{60}]#{142}]","Chypre","phénicien"
-"{58}#[[{59}/{60}]#{142}]","Chypre","phénicien"
-"[[[{140}#{28}]#{139}]/{141}]={64}","Chypre","grec"
-"[{143}/[{28}#{93}]/{1}]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{6}#{130}","Asie Mineure","hors Chypre"
-"{4}#{145}","Asie Mineure","hors Chypre"
-"{1}#{146}","Asie Mineure","hors Chypre"
-"[{119}/[{28}#{93}]]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"[{1}/[{28}#{93}]]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{3}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[{28}#{93}]/{5}/{147}","Égypte et Nubie","hors Chypre"
-"{1}+{119}+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"[{26}#{1}]+{119}","Égypte et Nubie","hors Chypre"
-"{148}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{1}#{114}","Iles égéennes","hors Chypre"
-"{149}","Asie Mineure","hors Chypre"
-"{18}#{138}","Grèce continentale","hors Chypre"
-"{150}#[{151}#({152}+{153})]","Proche-Orient","hors Chypre"
-"[[{183}#{214}]#[{1}#{73}]]+[{74}#{28}]","Chypre","grec"
-"{104}=[{190}/[{28}#{93}]]","Égypte et Nubie","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{110}#({152}+{111}+{153})","Proche-Orient","hors Chypre"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{18}#{197}","Grèce continentale","hors Chypre"
-"{113}/{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{114}","Chypre","grec"
-"{113}/{114}","Chypre","grec"
-"{18}#{197}","Grèce continentale","hors Chypre"
-"{18}#{197}","Iles égéennes","hors Chypre"
-"[{48}#{297}]#{51}","Chypre","phénicien"
-"[{48}{297}#]#{51}","Chypre","phénicien"
-"{18}#{197}","Iles égéennes","hors Chypre"
-"{1}#{211}","Iles égéennes","hors Chypre"
-"{207}+{207}+{217}+({216}#{151}#{215})","Proche-Orient","hors Chypre"
-"{4}#{212}","Iles égéennes","hors Chypre"
-"{4}#{213}","Iles égéennes","hors Chypre"
-"{48}#[{59}/{60}]","Chypre","phénicien"
-"{48}#[{59}#{60}]","Chypre","phénicien"
-"{151}#{218}","Proche-Orient","hors Chypre"
-"{223}#[{224}/{225}]","Chypre","phénicien"
-"{223}#[{224}#{225}]","Chypre","phénicien"
-"{15}#[{27}/{219}]","Chypre","phénicien"
-"{220}#({151}#{215})#{221}","Proche-Orient","hors Chypre"
-"{220}#{222}","Proche-Orient","hors Chypre"
-"{28}#[{1}#{195}]","Chypre","phénicien"
-"{1}#{23}","Chypre","phénicien"
-"{1}#{191}","Chypre","phénicien"
-"{1}#{192}","Chypre","grec"
-"{28}#[{15}#{226}]","Chypre","grec"
-"[{28}#{15}]#{226}","Chypre","grec"
-"{28}#{24}","Chypre","grec"
-"{7}","Chypre","grec"
-"{24}","Chypre","grec"
-"{116}","Chypre","grec"
-"{116}/{3}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{147}/{95}/{3}+[{144}#{28}]","Chypre","grec"
-"{116}","Chypre","grec"
-"{4}#{227}","Chypre","grec"
-"{1}#{116}","Chypre","grec"
-"{190}+{6}+{228}+{95}+{13}+[{74}#{28}#{78}]","Égypte et Nubie","hors Chypre"
-"{48}#{51}","Chypre","phénicien"
-"[{93}#{28}]/{230}","Égypte et Nubie","hors Chypre"
-"[{93}#{28}]/{6}","Égypte et Nubie","hors Chypre"
-"{234}#{231}","Égypte et Nubie","hors Chypre"
-"[{93}#{28}]/{230}","Égypte et Nubie","hors Chypre"
-"{234}#{231}","Égypte et Nubie","hors Chypre"
-"{234}#{231}","Égypte et Nubie","hors Chypre"
-"[{28}#{93}]/[{234}#{231}]","Égypte et Nubie","hors Chypre"
-"{28}/[{234}#{231}]","Égypte et Nubie","hors Chypre"
-"{7}","Chypre","grec"
-"[{244}#{3}]#{229}","Chypre","grec"
-"{244}#[{3}#{229}]","Chypre","grec"
-"{3}#{156}","Chypre","grec"
-"{39}#{232}","Chypre","phénicien"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{190}+{6}+{228}+{95}+{13}+[{74}#{28}#{78}]","Égypte et Nubie","hors Chypre"
-"{6}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[{28}#{93}]/{104}","Égypte et Nubie","hors Chypre"
-"{190}/{28}","Égypte et Nubie","hors Chypre"
-"[{26}#{233}]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{28}#{6}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{28}#{73}","Chypre","grec"
-"{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{235}","Chypre","grec"
-"{28}#{236}","Inconnue","hors Chypre"
-"{28}#{73}","Chypre","grec"
-"{73}","Chypre","grec"
-"[{28}#{313}]#{14}","Proche-Orient","hors Chypre"
-"{48}#{50}","Proche-Orient","hors Chypre"
-"{215}#{223}","Chypre","phénicien"
-"{7}","Chypre","grec"
-"{7}#{3}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{4}#{70}","Chypre","grec"
-"{237}","Chypre","grec"
-"{21}#{157}","Chypre","grec"
-"{28}#{194}","Chypre","grec"
-"{9}#{12}","Chypre","grec"
-"{238}#{9}","Chypre","grec"
-"{1}+[{4}#{239}]","Chypre","grec"
-"{241}#{1}","Chypre","grec"
-"[{201}#{28}]#{27}","Chypre","grec"
-"{201}#{28}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{58}#[{59}#{60}]","Chypre","phénicien"
-"{58}#[{59}/{60}]","Chypre","phénicien"
-"{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{58}#[{59}#{60}]","Chypre","phénicien"
-"{58}#[{59}/{60}]","Chypre","phénicien"
-"{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{28}#{204}","Proche-Orient","hors Chypre"
-"{28}#{7}","Chypre","grec"
-"{28}#{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{28}#{243}","Chypre","grec"
-"{14}#{313}","Proche-Orient","hors Chypre"
-"[{28}#{313}]#{14}","Proche-Orient","hors Chypre"
-"{28}#{14}","Proche-Orient","hors Chypre"
-"{58}#[{59}/{60}]#{142}","Chypre","phénicien"
-"{58}#[{59}#{60}]#{142}","Chypre","phénicien"
-"{45}/{39}","Proche-Orient","hors Chypre"
-"{39}#{48}","Proche-Orient","hors Chypre"
-"[{28}#{93}]#{1}","Chypre","grec"
-"{28}#{1}","Chypre","grec"
-"{28}#{1}","Chypre","grec"
-"{185}","Chypre","grec"
-"{245}","Chypre","grec"
-"{7}","Chypre","grec"
-"{1}/{28}","Chypre","grec"
-"{48}#[{47}#{224}]","Chypre","phénicien"
-"[{47}#{224}]","Chypre","phénicien"
-"[{47}#{224}]#{48}","Chypre","phénicien"
-"{1}#{73}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{185}","Chypre","grec"
-"{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"[{4}#{158}]#[{132}#{249}]","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{18}#{250}","Chypre","grec"
-"{4}#{91}","Chypre","grec"
-"{242}#{28}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{48}#[{59}/{261}]","Chypre","phénicien"
-"{48}#[{59}#{261}]","Chypre","phénicien"
-"{3}#{7}","Chypre","grec"
-"[{104}={190}]+[{6}={252}]+[{21}={228}]+[{13}={253}]+[{74}#{28}]","Égypte et Nubie","hors Chypre"
-"{234}#{231}","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{4}#({204}+{12})","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"([{190}={104}]/[{252}={6}]/[{228}={21}]/[{253}={13}]/[{254}={255}]/[{256}={11}])#[{28}#{93}]+{74}#[{257}#{67}]","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{28}/{95}#{258}","Égypte et Nubie","hors Chypre"
-"[{26}#{95}]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{58}#{39}#[{215}#{122}]#{259}","Proche-Orient","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{215}#{39}","Proche-Orient","hors Chypre"
-"{110}#{152}+{111}","Proche-Orient","hors Chypre"
-"({151}#{215})#({207}#{265})+{110}","Proche-Orient","hors Chypre"
-"{48}#[{58}#{124}]","Proche-Orient","hors Chypre"
-"{50}#{264}#{124}#[{271}#{272}]","Proche-Orient","hors Chypre"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"({95}/{147}/{267}/{104})#[{28}#{27}]","Égypte et Nubie","hors Chypre"
-"{48}#[{51}#{268}]","Chypre","phénicien"
-"{48}#{51}","Chypre","phénicien"
-"{48}#[{269}#{270}]","Chypre","phénicien"
-"{58}#[{39}#{270}]","Chypre","phénicien"
-"{215}#{39}","Chypre","phénicien"
-"{215}#{39}","Chypre","phénicien"
-"[{58}#{122}]#{270}","Chypre","phénicien"
-"{3}#{24}","Chypre","grec"
-"{68}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{24}","Chypre","grec"
-"{24}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{4}#{8}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{24}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{1}#{155}","Chypre","grec"
-"{28}#({78}+{78})","Chypre","grec"
-"[{28}#{144}]#({78}+{78})","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{28}/{6}","Chypre","grec"
-"{28}#{78}","Chypre","grec"
-"({276}+{274})#({151}#{152}+{153})","Proche-Orient","hors Chypre"
-"{274}#({151}#{152}+{111})","Proche-Orient","hors Chypre"
-"{9}#{10}","Chypre","grec"
-"[{3}#{278}]#{12}","Chypre","grec"
-"{1}#{2}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{279}#{89}","Chypre","grec"
-"{67}#{280}","Chypre","grec"
-"{281}#{64}","Chypre","grec"
-"{78}#{28}","Chypre","grec"
-"{282}#({271}#{283})","Proche-Orient","hors Chypre"
-"{220}#({151}#{285}#{222})","Proche-Orient","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{242}#{28}","Égypte et Nubie","hors Chypre"
-"{7}","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{4}#{286}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{50}#{51}","Chypre","phénicien"
-"{50}/{51}","Chypre","phénicien"
-"[{39}#{287}]","Chypre","phénicien"
-"{296}#{124}","Chypre","phénicien"
-"{296}#{124}","Chypre","phénicien"
-"{13}#{289}","Iles égéennes","hors Chypre"
-"{4}#{290}","Iles égéennes","hors Chypre"
-"{9}#{303}","Asie Mineure","hors Chypre"
-"{15}#{219}","Asie Mineure","hors Chypre"
-"{3}#{300}","Asie Mineure","hors Chypre"
-"{3}#{302}","Asie Mineure","hors Chypre"
-"{21}#{305}","Asie Mineure","hors Chypre"
-"{16}#{306}","Asie Mineure","hors Chypre"
-"{21}#{157}","Asie Mineure","hors Chypre"
-"{4}#{29}+{15}#{29}","Asie Mineure","hors Chypre"
-"{16}+[{16}#{309}]","Asie Mineure","hors Chypre"
-"{3}#{310}","Asie Mineure","hors Chypre"
-"{1}#{311}","Asie Mineure","hors Chypre"
-"{18}#{197}","Asie Mineure","hors Chypre"
-"{309}#{27}","Asie Mineure","hors Chypre"
-"{201}#{93}","Asie Mineure","hors Chypre"
-"{63}#{64}","Asie Mineure","hors Chypre"
-"{16}+[{309}#{310}]","Asie Mineure","hors Chypre"
-"{326}#({327}+{328})","Asie Mineure","hors Chypre"
-"{1}#{335}","Asie Mineure","hors Chypre"
-"{11}#{238}","Asie Mineure","hors Chypre"
-"{1}#{336}","Asie Mineure","hors Chypre"
-"{326}#{328}","Asie Mineure","hors Chypre"
-"{4}#{337}","Asie Mineure","hors Chypre"
-"{4}#{338}","Asie Mineure","hors Chypre"
-"[[{298}+{258}]#{28}#{95}#{93}]+{147}+{267}+{98}+[{104}/{190}]+{301}","Égypte et Nubie","hors Chypre"
-"[[{298}+{258}]#{28}#{95}#{93}]+{147}+{267}+{98}+[{104}/{190}]+{301}","Égypte et Nubie","hors Chypre"
-"{95}/{147}/{304}+[{298}+{258}]#{28}","Égypte et Nubie","hors Chypre"
-"{190}/{95}/{6}/{15}+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{95}/{147}/{304}+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"[{28}#{95}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"({147}/{95})#{27}","Égypte et Nubie","hors Chypre"
-"({147}/{95})#[{28}#{27}]","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"[{258}#{312}]#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{312}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{28}#{313}","Proche-Orient","hors Chypre"
-"[[{93}#{28}]#{95}]#{258}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{64}#[{342}#{343}]","Chypre","grec"
-"{26}#{81}","Chypre","grec"
-"{26}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#({81}/{12})","Inconnue","hors Chypre"
-"[{28}#{81}]#{12}","Inconnue","hors Chypre"
-"{180}#{315}","Inconnue","hors Chypre"
-"[{63}#{64}]+{67}","Inconnue","hors Chypre"
-"{63}#({64}+{67})","Inconnue","hors Chypre"
-"[{28}#{313}]#{14}","Proche-Orient","hors Chypre"
-"[{28}#{313}]#{317}","Proche-Orient","hors Chypre"
-"[{28}#{313}]#{317}","Proche-Orient","hors Chypre"
-"{28}#{81}","Chypre","grec"
-"{137}#{320}","Chypre","grec"
-"[{330}#[{3}#{156}]]+[{330}#{309}]+[{330}#[{1}#{73}]]+[{330}#[{1}#{154}]]+[{330}#[{324}#{27}]]+[[{332}#{331}]#[{21}#{157}]]+[({28}+{28})#[[{332}#{331}]#{34}]]+[{333}#{334}]+[[{74}#{28}]#({78}+{78})]","Chypre","grec"
-"{74}#{28}","Chypre","grec"
-"[[{258}+{298}]#{28}]#({78}+{78})","Égypte et Nubie","hors Chypre"
-"{26}#[{28}/{95}]","Égypte et Nubie","hors Chypre"
-"{26}#({28}/{95})","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{4}#{167}","Asie Mineure","hors Chypre"
-"{63}#{64}","Asie Mineure","hors Chypre"
-"{95}#[{258}+{298}]+[({74}/[{78}+{78}])#{28}]","Égypte et Nubie","hors Chypre"
-"[{298}+{258}]#{95}","Égypte et Nubie","hors Chypre"
-"[{298}+{258}]#{95}","Égypte et Nubie","hors Chypre"
-"[{298}+{258}]#{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{16}#{134}","Asie Mineure","hors Chypre"
-"{339}/[{340}#{341}]+[{28}#{27}]","Égypte et Nubie","hors Chypre"
-"{4}#{337}","Asie Mineure","hors Chypre"
-"{4}#{8}","Asie Mineure","hors Chypre"
-"({4}#{29})+({15}#{29})","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{4}#{204}","Asie Mineure","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{16}#{134}","Asie Mineure","hors Chypre"
-"[{93}#{28}]#{95}+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}#{258}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{3}#{7}","Chypre","grec"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}#{93}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{230}#{347}","Égypte et Nubie","hors Chypre"
-"{93}#{95}/{28}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{3}#{343}","Chypre","grec"
-"{67}#{63}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{28}#{81}","Chypre","grec"
-"{348}#{28}","Chypre","grec"
-"{25}/{349}","Chypre","grec"
-"[{48}#{297}]#{51}","Chypre","phénicien"
-"{3}#","Chypre","grec"
-"{117}/{3}","Chypre","grec"
-"{3}#{310}","Asie Mineure","hors Chypre"
-"{21}#{305}","Asie Mineure","hors Chypre"
-"[{1}#{350}]+[{9}#{350}]+[{1}#{2}]+[{1}#{160}]+[{351}#{352}]","Asie Mineure","hors Chypre"
-"[{4}#{353}]+[{15}#{353}]","Asie Mineure","hors Chypre"
-"{48}#{151}#[{354}#{355}]","Afrique du nord","hors Chypre"
-"{95}#{26}","Égypte et Nubie","hors Chypre"
-"({28}+{26})#{95}","Égypte et Nubie","hors Chypre"
-"{15}#{219}","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{3}#{300}","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"[[{93}#{28}]#{95}#{258}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{356}","Chypre","grec"
-"{16}#{306}","Asie Mineure","hors Chypre"
-"{6}#{169}","Asie Mineure","hors Chypre"
-"[{26}#{95}]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{26}{95}","Égypte et Nubie","hors Chypre"
-"{361}","Chypre","grec"
-"{28}#{357}","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"([{93}#{28}]/{26})#[{27}/{95}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{6}#{169}","Asie Mineure","hors Chypre"
-"{28}#{357}","Asie Mineure","hors Chypre"
-"{9}#{358}","Asie Mineure","hors Chypre"
-"[{26}#{95}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{95}#{26}","Égypte et Nubie","hors Chypre"
-"{11}#{359}#{360}","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{13}#{310}","Asie Mineure","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{13}#{248}","Asie Mineure","hors Chypre"
-"{3}#{310}","Asie Mineure","hors Chypre"
-"{531}#([{4}#[{470}#{468}]]+[[{117}#{471}]#{3}])","Chypre","grec"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{95}#{26}","Égypte et Nubie","hors Chypre"
-"{95}#{26}","Égypte et Nubie","hors Chypre"
-"{93}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"[{93}#{28}]#[{26}#{95}#{258}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{4}#{177}","Grèce continentale","hors Chypre"
-"[{93}#{28}]#[{26}#{95}]","Égypte et Nubie","hors Chypre"
-"{11}#{34}","Grèce continentale","hors Chypre"
-"{1}#{29}","Grèce continentale","hors Chypre"
-"{182}","Grèce continentale","hors Chypre"
-"{15}#{198}","Grèce continentale","hors Chypre"
-"[{28}#{34}]/[{230}#{362}]","Égypte et Nubie","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"{26}#{28}/{95}","Égypte et Nubie","hors Chypre"
-"{26}#[{28}/{95}]","Égypte et Nubie","hors Chypre"
-"[{26}#{28}]/{95}","Égypte et Nubie","hors Chypre"
-"{363}+[{9}#{162}]","Grèce continentale","hors Chypre"
-"{230}#{347}","Égypte et Nubie","hors Chypre"
-"{93}#{95}#{28}","Égypte et Nubie","hors Chypre"
-"[{4}#{177}]+[{15}#{177}]+[{18}#{364}]+[{18}#{365}]","Grèce continentale","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{82}#{367}","Grèce continentale","hors Chypre"
-"[{93}#{28}]#[{369}/{95}]","Égypte et Nubie","hors Chypre"
-"{82}#{368}","Grèce continentale","hors Chypre"
-"{18}#{366}","Grèce continentale","hors Chypre"
-"{4}#{204}","Grèce continentale","hors Chypre"
-"{82}#{368}","Grèce continentale","hors Chypre"
-"[{28}/{95}]#{93}","Égypte et Nubie","hors Chypre"
-"{26}#{28}/{95}","Égypte et Nubie","hors Chypre"
-"[{11}#{85}]+[{83}#{85}]+[{370}#{85}]+[{16}#{85}]+[{376}#{85}]+[{374}#{85}]+[{378}#{85}]+[{379}#{85}]+[{137}#{85}]+[{380}#{85}]+[{381}#{85}]+[{382}#{85}]+[{384}#{85}]+[{385}#{85}]+[{386}#{85}]+[{387}#{85}]+[{388}#{85}]+[{390}#{85}]+[{391}#{85}]+[{392}#{85}]+[{113}#{85}]+[{137}#{85}]+{174}/[{16}#{85}]+[{89}#{85}]+[{393}#({85}+{394})]/[{85}#{395}]+[{67}#{395}]+[{64}#[{396}#{78}]]","Chypre","grec"
-"{4}#{337}","Égypte et Nubie","hors Chypre"
-"{4}/{397}","Égypte et Nubie","hors Chypre"
-"{27}/{4}","Égypte et Nubie","hors Chypre"
-"[[{93}#{28}]/{95}#{258}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{95}+{147}+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{230}#{347}","Égypte et Nubie","hors Chypre"
-"{93}#{95}/{28}#{258}","Égypte et Nubie","hors Chypre"
-"{48}+[{47}#{122}]","Proche-Orient","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{26}#{95}#{258}","Égypte et Nubie","hors Chypre"
-"{47}","Proche-Orient","hors Chypre"
-"{4}#({204}+{93}+{12})","Proche-Orient","hors Chypre"
-"{399}#{28}","Proche-Orient","hors Chypre"
-"{207}#{401}","Proche-Orient","hors Chypre"
-"{398}#{95}","Égypte et Nubie","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"{236}#{28}#{93}","Proche-Orient","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"{95}/{402}","Égypte et Nubie","hors Chypre"
-"[{185}#{403}]+[{404}/{147}#{405}]","Égypte et Nubie","hors Chypre"
-"{95}#{406}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"[{407}#{95}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"{47}#{288}","Chypre","phénicien"
-"{47}#{49}","Chypre","phénicien"
-"{95}#{408}","Égypte et Nubie","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{409}#{95}","Égypte et Nubie","hors Chypre"
-"{1}/[{356}#{185}]","Égypte et Nubie","hors Chypre"
-"[{1}#{356}]/{185}","Égypte et Nubie","hors Chypre"
-"{407}#{95}","Égypte et Nubie","hors Chypre"
-"[[{48}#{410}]+{411}]({215}#{412})","Afrique du nord","hors Chypre"
-"[{39}#{413}]","Proche-Orient","hors Chypre"
-"[{26}#{95}#({258}+{298})]+[{144}#{28}#{78}]","Égypte et Nubie","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[{407}#{95}#({258}+{298})]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{407}#{95}#({258}+{298})","Égypte et Nubie","hors Chypre"
-"([{26}#{414}]+{95})#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{415}#{230}","Égypte et Nubie","hors Chypre"
-"{230}#{417}","Égypte et Nubie","hors Chypre"
-"{51}#{416}","Inconnue","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"[[{419}#{404}]/{95}]+[[{419}#{404}]/{414}]","Égypte et Nubie","hors Chypre"
-"[{26}#{95}]+{147}","Égypte et Nubie","hors Chypre"
-"{48}#{420}","Afrique du nord","hors Chypre"
-"{95}#{258}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"[[{28}#{93}]/{95}]+[{298}#{28}]","Égypte et Nubie","hors Chypre"
-"[{93}#{28}]/{95}","Égypte et Nubie","hors Chypre"
-"{95}#{26}","Égypte et Nubie","hors Chypre"
-"{28}/{95}","Égypte et Nubie","hors Chypre"
-"{28}/{95}","Égypte et Nubie","hors Chypre"
-"{28}/{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{26}#{95}#{258}","Égypte et Nubie","hors Chypre"
-"{51}#{416}","Proche-Orient","hors Chypre"
-"{95}#{93}","Égypte et Nubie","hors Chypre"
-"{26}{95}","Égypte et Nubie","hors Chypre"
-"[{26}#{404}]#{95}#({258}+{298}+{421})","Égypte et Nubie","hors Chypre"
-"{26}{95}","Égypte et Nubie","hors Chypre"
-"{9}#{422}","Asie Mineure","hors Chypre"
-"{9}/{422}","Asie Mineure","hors Chypre"
-"[{47}#{115}]+{58}","Proche-Orient","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{428}#{28}]+{27}","Chypre","grec"
-"{428}#({28}+{27})","Chypre","grec"
-"{151}#{215}#{430}","Proche-Orient","hors Chypre"
-"{4}#{93}#{108}","Proche-Orient","hors Chypre"
-"{431}#{1}","Chypre","grec"
-"{147}#[{433}#{28}]","Chypre","grec"
-"{28}/{3}","Chypre","grec"
-"{1}#{73}","Chypre","grec"
-"{28}#{85}","Chypre","grec"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}[#{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}/{151}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{47}#{49}","Afrique du nord","hors Chypre"
-"[{48}/[{151}#{124}]]#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{111}#{152}+{489}","Proche-Orient","hors Chypre"
-"({490}+{493})#{151}","Proche-Orient","hors Chypre"
-"{73}","Chypre","grec"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{129}#{492}","Chypre","grec"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{185}","Chypre","grec"
-"[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{348}#{28}","Grèce continentale","hors Chypre"
-"{400}#{151}","Proche-Orient","hors Chypre"
-"{28}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]#{151}","Afrique du nord","hors Chypre"
-"({496}+{64}#{497}+{498})#{34}#{28}","Proche-Orient","hors Chypre"
-"({493}+{282}#{500}+{499})#{151}#{152}","Proche-Orient","hors Chypre"
-"[{48}#[{47}#{49}][+[{215}#[{45}#{46}#]{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{28}#{34}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"{3}#[{295}#{314}]+{363}","Grèce continentale","hors Chypre"
-"[{47}#{115}]#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{47}","Chypre","phénicien"
-"{15}#{5}","Grèce continentale","hors Chypre"
-"{28}#{333}","Grèce continentale","hors Chypre"
-"{28}#{333}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#]]{49}[+{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{115}]#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"([{47}#{115}]+{505})#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"[{47}#{115}]#{151}#{152}","Proche-Orient","hors Chypre"
-"[{47}#{115}]#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"[{47}#{115}]#{151}","Proche-Orient","hors Chypre"
-"([{47}#{115}]+{505})#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]+[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{124}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{28}#{333}","Grèce continentale","hors Chypre"
-"{15}#{136}","Grèce continentale","hors Chypre"
-"{11}#{477}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+{45}","Afrique du nord","hors Chypre"
-"[{48}#{47}]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{151}/{55}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"[{151}#{55}]#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]+{45}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}[#{47}#]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{55}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]#{124}","Afrique du nord","hors Chypre"
-"{47}+[{45}#[{46}#{47}]]+{516}","Afrique du nord","hors Chypre"
-"{45}#[{46}#{47}]","Afrique du nord","hors Chypre"
-"{47}+{517}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{285}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{47}#{55}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}[#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{55}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{6}#{520}","Grèce continentale","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#{45}]","Afrique du nord","hors Chypre"
-"{47}#{55}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{124}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{215}#{45}","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{1}#{146}","Grèce continentale","hors Chypre"
-"{1}#{29}","Grèce continentale","hors Chypre"
-"{4}#{91}","Grèce continentale","hors Chypre"
-"{75}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{15}#{5}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#{47}#{49}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{9}#{83}","Grèce continentale","hors Chypre"
-"{9}/{83}","Grèce continentale","hors Chypre"
-"{83}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{4}#{169}","Grèce continentale","hors Chypre"
-"[{48}#[{45}#[{46}#{47}]]]+[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}/{174}","Grèce continentale","hors Chypre"
-"{1}#{174}","Grèce continentale","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#{47}]+[{45}[#{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{4}#{5}","Grèce continentale","hors Chypre"
-"{4}#{176}","Grèce continentale","hors Chypre"
-"{1}#{29}","Grèce continentale","hors Chypre"
-"{4}#{5}","Grèce continentale","hors Chypre"
-"{15}#{5}","Grèce continentale","hors Chypre"
-"{185}","Grèce continentale","hors Chypre"
-"{4}#{177}","Grèce continentale","hors Chypre"
-"{1}#{2}","Grèce continentale","hors Chypre"
-"{1}#{182}","Grèce continentale","hors Chypre"
-"{4}#{175}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{4}#{5}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{4}#{5}","Grèce continentale","hors Chypre"
-"[{11}#{335}]/{363}","Grèce continentale","hors Chypre"
-"{523}#{28}","Grèce continentale","hors Chypre"
-"{137}#{524}","Grèce continentale","hors Chypre"
-"[{47}#{115}]#{151}","Proche-Orient","hors Chypre"
-"[{47}#{115}]+{505}","Proche-Orient","hors Chypre"
-"{4}#{91}","Grèce continentale","hors Chypre"
-"[{47}#{115}]+{505}","Proche-Orient","hors Chypre"
-"{528}#({525}/{526}+{527})","Chypre","grec"
-"{528}#({525}+{526}+{527})","Chypre","grec"
-"{1}#{531}","Chypre","grec"
-"{201}#{532}","Grèce continentale","hors Chypre"
-"([{47}#{115}]+{505})#{151}#{152}","Proche-Orient","hors Chypre"
-"[{47}#{115}]+{505}+{535}+({282}#{536})","Proche-Orient","hors Chypre"
-"[{47}#{115}]#{151}","Proche-Orient","hors Chypre"
-"[{47}#]+{505}+({207}#{538})","Proche-Orient","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{9}","Grèce continentale","hors Chypre"
-"{4}#{511}","Grèce continentale","hors Chypre"
-"[{28}#{313}]#{317}","Proche-Orient","hors Chypre"
-"{129}/[{4}#{127}]/{82}","Grèce continentale","hors Chypre"
-"{4}#{514}","Iles égéennes","hors Chypre"
-"{17}#{539}","Iles égéennes","hors Chypre"
-"[{47}#{115}]#{151}","Proche-Orient","hors Chypre"
-"[{47}#{115}]+{505}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"[{47}#{115}]+{505}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"[{560}#{562}]+{565}","Proche-Orient","hors Chypre"
-"{560}#({562}+{565})","Proche-Orient","hors Chypre"
-"{1}#{75}","Iles égéennes","hors Chypre"
-"{136}","Iles égéennes","hors Chypre"
-"{186}#{14}","Grèce continentale","hors Chypre"
-"{540}#{309}","Grèce continentale","hors Chypre"
-"{4}#{189}","Grèce continentale","hors Chypre"
-"{4}#{5}","Grèce continentale","hors Chypre"
-"{137}#{551}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{4}#{188}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{4}#{189}","Grèce continentale","hors Chypre"
-"{137}#{551}","Grèce continentale","hors Chypre"
-"{4}#{91}","Grèce continentale","hors Chypre"
-"{185}","Grèce continentale","hors Chypre"
-"{9}#{186}","Grèce continentale","hors Chypre"
-"{75}#{1}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{137}#{552}","Grèce continentale","hors Chypre"
-"{137}#{550}","Grèce continentale","hors Chypre"
-"{4}#{188}","Grèce continentale","hors Chypre"
-"{137}#{553}","Grèce continentale","hors Chypre"
-"{4}#{188}","Grèce continentale","hors Chypre"
-"({410}#{151})+{554}","Proche-Orient","hors Chypre"
-"[{47}#{115}]+[{47}{122}]+[{123}#[{58}#{122}]#{124}]","Proche-Orient","hors Chypre"
-"[{58}#{122}]#{124}","Proche-Orient","hors Chypre"
-"[{47}#{122}]#{48}","Proche-Orient","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"({555}+{496})#({34}#{28})","Péninsule italique","hors Chypre"
-"{493}+({151}#{559})","Péninsule italique","hors Chypre"
-"{556}#({557}/{558})","Égypte et Nubie","hors Chypre"
-"{151}","Péninsule italique","hors Chypre"
-"{560}#({561}+{565})","Proche-Orient","hors Chypre"
-"[{560}#{561}]+{565}","Proche-Orient","hors Chypre"
-"{1}+{4}+[{564}#{28}]","Égypte et Nubie","hors Chypre"
-"{1}+{4}+[{564}#{28}]","Égypte et Nubie","hors Chypre"
-"{3}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{8}#{4}/{25}#{93}#{147}","Égypte et Nubie","hors Chypre"
-"({555}+{496})#{28}#({415}#{566})","Proche-Orient","hors Chypre"
-"({490}+{493})#{151}#{567}","Proche-Orient","hors Chypre"
-"{4}/{569}#({28}#{93})","Proche-Orient","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{93}#{147}","Égypte et Nubie","hors Chypre"
-"({28}+{28}+{67})#({93}/[{570}#{571}])","Égypte et Nubie","hors Chypre"
-"{4}#{238}","Grèce continentale","hors Chypre"
-"{1}#{31}","Grèce continentale","hors Chypre"
-"{63}#{67}","Grèce continentale","hors Chypre"
-"[{4}#{157}]+[{21}#{157}]","Grèce continentale","hors Chypre"
-"[{4}#{157}]+[{21}#{157}]","Grèce continentale","hors Chypre"
-"[{207}#{401}]#{152}+{111}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{482}","Grèce continentale","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{560}#{561}]+{565}","Proche-Orient","hors Chypre"
-"{560}#({561}+{565})","Proche-Orient","hors Chypre"
-"{95}/{28}","Égypte et Nubie","hors Chypre"
-"[{560}#{561}]+{565}","Proche-Orient","hors Chypre"
-"{560}#({561}+{565})","Proche-Orient","hors Chypre"
-"{180}#[{573}#{574}]","Égypte et Nubie","hors Chypre"
-"{576}#[{575}#[{574}#{230}]]","Égypte et Nubie","hors Chypre"
-"{577}#[{579}#[{578}#{580}]]","Égypte et Nubie","hors Chypre"
-"{578}#{581}","Égypte et Nubie","hors Chypre"
-"{48}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"({110}#({152}+{111}()+{583}#{124}#{582}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"{28}#[{93}/{93}]","Égypte et Nubie","hors Chypre"
-"[{560}#{561}]","Proche-Orient","hors Chypre"
-"{410}#{151}#{152}#{600}","Proche-Orient","hors Chypre"
-"{26}#{95}/{588}","Égypte et Nubie","hors Chypre"
-"{26}#{95}","Égypte et Nubie","hors Chypre"
-"{93}#{147}","Égypte et Nubie","hors Chypre"
-"{590}+[{28}#({74}/{591})]","Égypte et Nubie","hors Chypre"
-"{4}#{337}","Égypte et Nubie","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{4}#{337}","Égypte et Nubie","hors Chypre"
-"[{95}/[{28}#{93}]]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"[{48}#[{47}#{49}]]+{45}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+{215}#{45}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+{215}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{110}#({152}+{111})+{583}#{582}#{124}","Proche-Orient","hors Chypre"
-"{110}#{151}={152}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"({3}+{95})/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[{3}/[{28}#{93}]]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{592}#{28}","Égypte et Nubie","hors Chypre"
-"{93}#{147}","Égypte et Nubie","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{596}#{28}#{93}","Égypte et Nubie","hors Chypre"
-"{596}","Égypte et Nubie","hors Chypre"
-"{3}/[{28}#{596}]","Égypte et Nubie","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{144}#{28}","Égypte et Nubie","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{1}#{494}","Grèce continentale","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{45}#[{46}#{47}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{47}#{55}","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{48}","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]","Afrique du nord","hors Chypre"
-"{137}#{597}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{137}#{599}","Grèce continentale","hors Chypre"
-"{137}#{598}","Grèce continentale","hors Chypre"
-"{199}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{15}#{198}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{276}#{151}","Proche-Orient","hors Chypre"
-"[{1}#{73}]/[{9}#{358}]/[{9}#{601}]/[{602}#{603}]/[{17}#{19}]","Égypte et Nubie","hors Chypre"
-"[{28}#{93}]#{604}","Égypte et Nubie","hors Chypre"
-"{28}#({93}/{604})","Égypte et Nubie","hors Chypre"
-"[{124}/{58}]","Proche-Orient","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{16}#{134}","Grèce continentale","hors Chypre"
-"{1}","Grèce continentale","hors Chypre"
-"{15}#{198}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{200}","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{4}#{606}","Grèce continentale","hors Chypre"
-"{28}#{93}","Égypte et Nubie","hors Chypre"
-"{28}/{95}","Égypte et Nubie","hors Chypre"
-"{255}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{207}#{285}","Proche-Orient","hors Chypre"
-"{151}","Proche-Orient","hors Chypre"
-"[#{607}{58}]","Proche-Orient","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[#{47}]","Proche-Orient","hors Chypre"
-"{47}","Proche-Orient","hors Chypre"
-"{25}#({34}+{12})#{28}","Proche-Orient","hors Chypre"
-"{220}#{151}#{152}","Proche-Orient","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{200}","Grèce continentale","hors Chypre"
-"({490}+{493})#{151}","Proche-Orient","hors Chypre"
-"{134}#{609}","Grèce continentale","hors Chypre"
-"{95}/[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"({95}+{6})#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"[{47}#{115}]#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"{137}#{614}","Grèce continentale","hors Chypre"
-"{255}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{137}#{614}","Grèce continentale","hors Chypre"
-"{137}#{614}","Grèce continentale","hors Chypre"
-"{137}#{136}","Grèce continentale","hors Chypre"
-"{95}#{633}","Égypte et Nubie","hors Chypre"
-"{95}#({634}/[{28}#{93}])","Égypte et Nubie","hors Chypre"
-"{13}#{72}","Grèce continentale","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{267}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{95}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"({47}/{45})#{47}","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{95}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{47}","Afrique du nord","hors Chypre"
-"{3}#{295}","Grèce continentale","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{124}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{282}#{48}/[{635}#[{47}#{49}]]","Afrique du nord","hors Chypre"
-"[{151}#{636}]+{637}/{124}","Afrique du nord","hors Chypre"
-"[{48}#[{47}#{49}]]+[{48}#[{45}#[{46}#{47}]]]","Afrique du nord","hors Chypre"
-"{151}#{638}#{152}","Proche-Orient","hors Chypre"
-"{151}/{638}#{152}","Proche-Orient","hors Chypre"
-"[{47}#{115}]#[{207}#{401}]","Proche-Orient","hors Chypre"
-"[{47}#{115}]","Proche-Orient","hors Chypre"
-"[{673}#[{645}#{674}]]+[{675}#[{643}#[{644}#{645}]]]","Afrique du nord","hors Chypre"
-"[{47}#{115}]#({215}+{111})","Proche-Orient","hors Chypre"
-"({641}#{151})=({282}#{642})","Proche-Orient","hors Chypre"
-"[{47}#{639}]","Proche-Orient","hors Chypre"
-"{640}","Afrique du nord","hors Chypre"
-"{255}/{643}#[{644}#{645}]","Afrique du nord","hors Chypre"
-"[{495}#{689}]+[{47}#{115}]","Proche-Orient","hors Chypre"
-"{95}#({407}/[{28}#{93}]/{646}/[{64}#{647}])","Égypte et Nubie","hors Chypre"
-"{95}#({407}/[{28}#{93}])/[{646}#{64}#{647}]","Égypte et Nubie","hors Chypre"
-"[{4}/{25}]#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{26}#{665}","Égypte et Nubie","hors Chypre"
-"({147}+{665}+{104})#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{665}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{28}#{666}","Égypte et Nubie","hors Chypre"
-"[{28}#{93}]#{693}","Égypte et Nubie","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{200}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"[{495}#{689}]","Proche-Orient","hors Chypre"
-"{495}","Proche-Orient","hors Chypre"
-"({276}+{690}+[{209}#{58}])#({151}#{152})","Proche-Orient","hors Chypre"
-"{15}#{679}","Grèce continentale","hors Chypre"
-"[{47}#{122}]#{48}","Proche-Orient","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"{17}#{682}","Grèce continentale","hors Chypre"
-"[{541}+{692}]+{184}","Grèce continentale","hors Chypre"
-"{495}+{400}","Proche-Orient","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{28}#{139}","Proche-Orient","hors Chypre"
-"{282}","Proche-Orient","hors Chypre"
-"[{47}#{115}]#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"[{47}#{122}]#{48}","Proche-Orient","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"[{47}#{55}]+{47}+[{218}#{58}]","Proche-Orient","hors Chypre"
-"{47}+[{218}#{58}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"[{47}#{122}]","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{58}","Proche-Orient","hors Chypre"
-"{215}/[{47}#{122}]","Proche-Orient","hors Chypre"
-"{218}#[{58}#{122}]","Proche-Orient","hors Chypre"
-"({495}+{400}+{490})#{151}","Proche-Orient","hors Chypre"
-"({410}+{554})#{151}#{152}","Proche-Orient","hors Chypre"
-"{495}+{490}+{400}","Proche-Orient","hors Chypre"
-"{137}#{683}","Grèce continentale","hors Chypre"
-"{679}","Grèce continentale","hors Chypre"
-"{15}#{679}","Grèce continentale","hors Chypre"
-"{694}+[{137}#{683}]","Grèce continentale","hors Chypre"
-"{184}","Grèce continentale","hors Chypre"
-"{137}#{683}","Grèce continentale","hors Chypre"
-"{137}#{684}","Grèce continentale","hors Chypre"
-"{137}#{162}","Grèce continentale","hors Chypre"
-"{5}#[{4}/{25}#{93}#{147}]#{695}","Égypte et Nubie","hors Chypre"
-"{5}#[[[{4}/{25}]#{93}]/{147}]#{695}","Égypte et Nubie","hors Chypre"
-"{1}#{34}","Grèce continentale","hors Chypre"
-"{15}#{691}","Grèce continentale","hors Chypre"
-"{18}#{681}","Grèce continentale","hors Chypre"
-"{137}#{686}","Grèce continentale","hors Chypre"
-"{137}#{688}","Grèce continentale","hors Chypre"
-"{137}#{687}","Grèce continentale","hors Chypre"
-"[[[{4}/{25}]#{93}]/{147}]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{743}#[{5}#{147}]","Égypte et Nubie","hors Chypre"
-"{743}#[{727}#{147}]","Égypte et Nubie","hors Chypre"
-"{4}#{205}","Grèce continentale","hors Chypre"
-"{15}#{679}","Grèce continentale","hors Chypre"
-"[{4}#{27}]/[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]+{696}+{139}","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]+{696}+{139}","Grèce continentale","hors Chypre"
-"[{4}#{27}]+[{15}#{27}]","Grèce continentale","hors Chypre"
-"{47}","Proche-Orient","hors Chypre"
-"{4}#{27}","Grèce continentale","hors Chypre"
-"{3}#{451}","Grèce continentale","hors Chypre"
-"{11}#{452}","Grèce continentale","hors Chypre"
-"{137}#{697}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}+[{707}#{47}]","Proche-Orient","hors Chypre"
-"[{4}#{27}]#{742}","Grèce continentale","hors Chypre"
-"{4}#[{27}#{742}]","Grèce continentale","hors Chypre"
-"{28}#{746}","Grèce continentale","hors Chypre"
-"{11}#{335}","Grèce continentale","hors Chypre"
-"{747}","Égypte et Nubie","hors Chypre"
-"[{93}#{64}]#{747}","Égypte et Nubie","hors Chypre"
-"{13}#{474}","Grèce continentale","hors Chypre"
-"[{28}#{93}]#{95}","Égypte et Nubie","hors Chypre"
-"{11}#{335}","Grèce continentale","hors Chypre"
-"{428}#{28}#({93}/{93})","Égypte et Nubie","hors Chypre"
-"{28}#{93}","Égypte et Nubie","hors Chypre"
-"[{143}#[{28}#{93}]]+[{144}#{28}]","Égypte et Nubie","hors Chypre"
-"{256}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{104}#[{28}#{93}]","Égypte et Nubie","hors Chypre"
-"{28}#{93}","Égypte et Nubie","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"{205}#{4}","Grèce continentale","hors Chypre"
-"[{26}#{1}]+{26}","Égypte et Nubie","hors Chypre"
-"{180}+[{28}#{78}]","Grèce continentale","hors Chypre"
-"{4}#{167}","Grèce continentale","hors Chypre"
-"{15}#{450}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{1}#{75}","Grèce continentale","hors Chypre"
-"{714}","Grèce continentale","hors Chypre"
-"{137}#{754}","Grèce continentale","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#{47}","Afrique du nord","hors Chypre"
-"{48}#{47}#{49}","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{48}#[{47}#{49}]","Afrique du nord","hors Chypre"
-"{3}#{302}","Grèce continentale","hors Chypre"
-"{18}#{773}","Iles égéennes","hors Chypre"
-"{18}#{774}","Iles égéennes","hors Chypre"
-"{16}#{134}","Iles égéennes","hors Chypre"
-"{4}#{758}","Iles égéennes","hors Chypre"
-"{13}#{776}","Iles égéennes","hors Chypre"
-"[{4}#{85}]/[{82}#{85}]","Iles égéennes","hors Chypre"
-"{13}#{248}","Iles égéennes","hors Chypre"
-"{1}#{778}","Iles égéennes","hors Chypre"
-"{4}#{338}","Iles égéennes","hors Chypre"
-"{3}#{302}","Grèce continentale","hors Chypre"
-"{4}#({204}+{12})","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}#({207}#{218}#{401}#{152})","Proche-Orient","hors Chypre"
-"{110}/({207}#{218}#{401}#{152})","Proche-Orient","hors Chypre"
-"{185}/{246}","Grèce continentale","hors Chypre"
-"{13}#{531}","Grèce continentale","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{308}","Proche-Orient","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{58}#{124}","Proche-Orient","hors Chypre"
-"{39}#{215}","Proche-Orient","hors Chypre"
-"{58}=({39}+{50}#[{264}#{124}#{271}#{272}])","Proche-Orient","hors Chypre"
-"[{58}#{53}]=([{47}#{53}]+{39}#[{607}#]{47})","Proche-Orient","hors Chypre"
-"{58}#{124}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}+{111}#{152}","Proche-Orient","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}#{151}#({152}+{153})","Proche-Orient","hors Chypre"
-"[{784}+{309}]#{200}","Grèce continentale","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{34}/{431}","Grèce continentale","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{788}#({111}+{152})","Proche-Orient","hors Chypre"
-"{785}","Grèce continentale","hors Chypre"
-"{15}#{786}","Grèce continentale","hors Chypre"
-"{17}","Grèce continentale","hors Chypre"
-"{4}#{8}","Grèce continentale","hors Chypre"
-"{473}","Grèce continentale","hors Chypre"
-"{28}#{91}","Grèce continentale","hors Chypre"
-"{787}#{784}","Grèce continentale","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{110}#({111}+{152})","Proche-Orient","hors Chypre"
-"{110}#({152}+{111})","Proche-Orient","hors Chypre"
-"{110}#{111}#{152}","Proche-Orient","hors Chypre"
-"{110}={111}#{152}","Proche-Orient","hors Chypre"
-"{16}#{714}","Grèce continentale","hors Chypre"
-"{16}+{309}","Grèce continentale","hors Chypre"
-"{58}","Proche-Orient","hors Chypre"
-"{25}#({28}#{93})","Proche-Orient","hors Chypre"
-"{17}#{789}","Grèce continentale","hors Chypre"
-"{28}","Égypte et Nubie","hors Chypre"
-"{110}","Proche-Orient","hors Chypre"
-"{17}#{789}","Grèce continentale","hors Chypre"
-"{17}#{789}","Grèce continentale","hors Chypre"
-"{17}#{789}","Grèce continentale","hors Chypre"
-"{4}#{205}","Grèce continentale","hors Chypre"
-"{4}#{205}","Grèce continentale","hors Chypre"
-"{4}#{205}","Grèce continentale","hors Chypre"
+region,langage_cyprus,formula
+Chypre,grec,{3}+[{4}#{5}]+{6}
+Chypre,grec,{3}#{7}
+Chypre,grec,{4}#{8}
+Chypre,grec,{9}#{10}
+Chypre,grec,{11}#{12}
+Chypre,grec,{17}#{19}
+Chypre,grec,{9}#{20}
+Chypre,grec,{9}#{20}
+Chypre,grec,{4}#{8}
+Chypre,grec,{4}#{8}
+Chypre,grec,{4}#{8}
+Chypre,grec,{4}#{8}
+Chypre,grec,{4}#{27}
+Chypre,grec,{27}
+Chypre,grec,{63}#{64}
+Chypre,grec,{28}#{65}
+Chypre,grec,{4}#{8}
+Chypre,grec,{26}#{25}
+Chypre,grec,[{429}/{67}]#{66}
+Chypre,grec,{4}#{70}
+Chypre,grec,[{28}#{68}]+[{4}#{70}]
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{1}/{28}
+Chypre,grec,{28}#{72}
+Chypre,grec,[{1}#{73}]+[{74}#{28}]
+Chypre,grec,[{1}#{75}]+[{1}#{73}]
+Chypre,grec,[{1}#{73}]+[{1}#{75}]+[{6}#{76}]
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{28}#{78}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,[{1}/{79}]+[{1}#{73}]
+Chypre,grec,[{1}/{79}]+[{1}#{73}]
+Chypre,grec,[{1}#{73}]+[{1}/{79}]
+Chypre,grec,[{1}#{73}]+[{1}/{79}]
+Chypre,grec,{1}/{79}
+Chypre,grec,[{1}/{79}]+[{1}#{73}]
+Chypre,grec,[{1}#{73}]+[{1}/{79}]
+Chypre,grec,[{1}#{73}]+[{1}/{79}]
+Chypre,grec,{1}#{73}
+Chypre,grec,[{1}#{73}]+[{1}/{79}]
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}/{3}
+Chypre,grec,[{4}#{27}]+[{15}#{103}]
+Chypre,grec,{1}#{105}
+Chypre,grec,{9}#{10}
+Chypre,grec,{9}#{10}
+Chypre,grec,{9}#{10}
+Chypre,grec,[{4}#{108}]/{3}/{214}/{314}/{109}
+Chypre,grec,{28}#{81}
+Chypre,grec,{112}
+Chypre,grec,{322}#{108}
+Chypre,grec,{322}#{108}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{1}/{114}
+Chypre,grec,{116}#{3}
+Chypre,grec,[[{93}#{28}]#{117}]#{3}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{1}#{120}
+Chypre,grec,{120}
+Chypre,grec,{1}#{120}
+Chypre,grec,{1}#{120}
+Chypre,grec,{1}#{121}
+Chypre,grec,[[[{140}#{28}]#{139}]/{141}]={64}
+Chypre,grec,[[{183}#{214}]#[{1}#{73}]]+[{74}#{28}]
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{114}
+Chypre,grec,{113}/{114}
+Chypre,grec,{1}#{192}
+Chypre,grec,{28}#[{15}#{226}]
+Chypre,grec,[{28}#{15}]#{226}
+Chypre,grec,{28}#{24}
+Chypre,grec,{7}
+Chypre,grec,{24}
+Chypre,grec,{116}
+Chypre,grec,{116}/{3}
+Chypre,grec,{28}#{81}
+Chypre,grec,{147}/{95}/{3}+[{144}#{28}]
+Chypre,grec,{116}
+Chypre,grec,{4}#{227}
+Chypre,grec,{1}#{116}
+Chypre,grec,{7}
+Chypre,grec,[{244}#{3}]#{229}
+Chypre,grec,{244}#[{3}#{229}]
+Chypre,grec,{3}#{156}
+Chypre,grec,{28}#{6}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{28}#{73}
+Chypre,grec,{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{235}
+Chypre,grec,{28}#{73}
+Chypre,grec,{73}
+Chypre,grec,{7}
+Chypre,grec,{7}#{3}
+Chypre,grec,{28}#{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{4}#{70}
+Chypre,grec,{237}
+Chypre,grec,{21}#{157}
+Chypre,grec,{28}#{194}
+Chypre,grec,{9}#{12}
+Chypre,grec,{238}#{9}
+Chypre,grec,{1}+[{4}#{239}]
+Chypre,grec,{241}#{1}
+Chypre,grec,[{201}#{28}]#{27}
+Chypre,grec,{201}#{28}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{7}
+Chypre,grec,{7}
+Chypre,grec,{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{7}
+Chypre,grec,{7}
+Chypre,grec,{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{28}#{7}
+Chypre,grec,{7}
+Chypre,grec,{28}#{243}
+Chypre,grec,[{28}#{93}]#{1}
+Chypre,grec,{28}#{1}
+Chypre,grec,{28}#{1}
+Chypre,grec,{185}
+Chypre,grec,{245}
+Chypre,grec,{7}
+Chypre,grec,{1}/{28}
+Chypre,grec,{1}#{73}
+Chypre,grec,{1}#{73}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{185}
+Chypre,grec,{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,[{4}#{158}]#[{132}#{249}]
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{18}#{250}
+Chypre,grec,{4}#{91}
+Chypre,grec,{242}#{28}
+Chypre,grec,{28}#{81}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{3}#{24}
+Chypre,grec,{68}
+Chypre,grec,{28}#{81}
+Chypre,grec,{24}
+Chypre,grec,{24}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{4}#{8}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{24}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{1}#{155}
+Chypre,grec,{28}#({78}+{78})
+Chypre,grec,[{28}#{144}]#({78}+{78})
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{28}/{6}
+Chypre,grec,{28}#{78}
+Chypre,grec,{9}#{10}
+Chypre,grec,[{3}#{278}]#{12}
+Chypre,grec,{1}#{2}
+Chypre,grec,{3}#{7}
+Chypre,grec,{279}#{89}
+Chypre,grec,{67}#{280}
+Chypre,grec,{281}#{64}
+Chypre,grec,{78}#{28}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{4}#{286}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{64}#[{342}#{343}]
+Chypre,grec,{26}#{81}
+Chypre,grec,{26}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{137}#{320}
+Chypre,grec,[{330}#[{3}#{156}]]+[{330}#{309}]+[{330}#[{1}#{73}]]+[{330}#[{1}#{154}]]+[{330}#[{324}#{27}]]+[[{332}#{331}]#[{21}#{157}]]+[({28}+{28})#[[{332}#{331}]#{34}]]+[{333}#{334}]+[[{74}#{28}]#({78}+{78})]
+Chypre,grec,{74}#{28}
+Chypre,grec,{3}#{7}
+Chypre,grec,{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{7}
+Chypre,grec,{3}#{343}
+Chypre,grec,{67}#{63}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{28}#{81}
+Chypre,grec,{348}#{28}
+Chypre,grec,{25}/{349}
+Chypre,grec,{3}#
+Chypre,grec,{117}/{3}
+Chypre,grec,{356}
+Chypre,grec,{361}
+Chypre,grec,{531}#([{4}#[{470}#{468}]]+[[{117}#{471}]#{3}])
+Chypre,grec,[{11}#{85}]+[{83}#{85}]+[{370}#{85}]+[{16}#{85}]+[{376}#{85}]+[{374}#{85}]+[{378}#{85}]+[{379}#{85}]+[{137}#{85}]+[{380}#{85}]+[{381}#{85}]+[{382}#{85}]+[{384}#{85}]+[{385}#{85}]+[{386}#{85}]+[{387}#{85}]+[{388}#{85}]+[{390}#{85}]+[{391}#{85}]+[{392}#{85}]+[{113}#{85}]+[{137}#{85}]+{174}/[{16}#{85}]+[{89}#{85}]+[{393}#({85}+{394})]/[{85}#{395}]+[{67}#{395}]+[{64}#[{396}#{78}]]
+Chypre,grec,[{428}#{28}]+{27}
+Chypre,grec,{428}#({28}+{27})
+Chypre,grec,{431}#{1}
+Chypre,grec,{147}#[{433}#{28}]
+Chypre,grec,{28}/{3}
+Chypre,grec,{1}#{73}
+Chypre,grec,{28}#{85}
+Chypre,grec,{73}
+Chypre,grec,{129}#{492}
+Chypre,grec,{185}
+Chypre,grec,{528}#({525}/{526}+{527})
+Chypre,grec,{528}#({525}+{526}+{527})
+Chypre,grec,{1}#{531}
+Grèce continentale,hors Chypre,{1}#{2}
+Proche-Orient,hors Chypre,{39}#{48}
+Grèce continentale,hors Chypre,{54}#{55}
+Iles égéennes,hors Chypre,{215}#{39}
+Afrique du nord,hors Chypre,[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]
+Afrique du nord,hors Chypre,[{215}#[{45}[#{46}#{47}]]]+[{48}#[{47}#{49}]]
+Afrique du nord,hors Chypre,[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]
+Grèce continentale,hors Chypre,{9}#{32}
+Grèce continentale,hors Chypre,{47}#{53}
+Égypte et Nubie,hors Chypre,[{93}+{93}]#{11}
+Égypte et Nubie,hors Chypre,{94}#{93}
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]/{96}
+Égypte et Nubie,hors Chypre,{26}#{98}/{28}
+Égypte et Nubie,hors Chypre,[{26}#{28}]#([{99}/{28}#{93}]+{100}+[{95}#{101}])+[{102}/{28}#{93}]
+Égypte et Nubie,hors Chypre,{28}/{104}
+Égypte et Nubie,hors Chypre,{26}#{104}
+Égypte et Nubie,hors Chypre,{104}#{93}
+Égypte et Nubie,hors Chypre,[{93}#{28}]/{106}
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{104}/{28}
+Égypte et Nubie,hors Chypre,{104}#{28}
+Égypte et Nubie,hors Chypre,{64}#{107}
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{4}={118}#{93}
+Égypte et Nubie,hors Chypre,{119}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{28}/{104}
+Grèce continentale,hors Chypre,{13}#{130}
+Grèce continentale,hors Chypre,{16}#{134}
+Grèce continentale,hors Chypre,{135}#{28}
+Grèce continentale,hors Chypre,{135}#{28}
+Grèce continentale,hors Chypre,({136}+{74})#{137}
+Grèce continentale,hors Chypre,{136}+({74}#{137})
+Grèce continentale,hors Chypre,{136}+[{74}#{137}]
+Iles égéennes,hors Chypre,{129}+[{4}#{127}]
+Égypte et Nubie,hors Chypre,[[{131}#{28}]#{132}]#{133}
+Égypte et Nubie,hors Chypre,[{143}/[{28}#{93}]/{1}]+[{144}#{28}]
+Asie Mineure,hors Chypre,{6}#{130}
+Asie Mineure,hors Chypre,{4}#{145}
+Asie Mineure,hors Chypre,{1}#{146}
+Égypte et Nubie,hors Chypre,[{119}/[{28}#{93}]]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,[{1}/[{28}#{93}]]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{3}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,[{28}#{93}]/{5}/{147}
+Égypte et Nubie,hors Chypre,{1}+{119}+[{144}#{28}]
+Égypte et Nubie,hors Chypre,[{26}#{1}]+{119}
+Égypte et Nubie,hors Chypre,{148}/[{28}#{93}]
+Iles égéennes,hors Chypre,{1}#{114}
+Asie Mineure,hors Chypre,{149}
+Grèce continentale,hors Chypre,{18}#{138}
+Proche-Orient,hors Chypre,{150}#[{151}#({152}+{153})]
+Égypte et Nubie,hors Chypre,{104}=[{190}/[{28}#{93}]]
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{110}#({152}+{111}+{153})
+Grèce continentale,hors Chypre,{18}#{197}
+Grèce continentale,hors Chypre,{18}#{197}
+Iles égéennes,hors Chypre,{18}#{197}
+Iles égéennes,hors Chypre,{18}#{197}
+Iles égéennes,hors Chypre,{1}#{211}
+Proche-Orient,hors Chypre,{207}+{207}+{217}+({216}#{151}#{215})
+Iles égéennes,hors Chypre,{4}#{212}
+Iles égéennes,hors Chypre,{4}#{213}
+Proche-Orient,hors Chypre,{151}#{218}
+Proche-Orient,hors Chypre,{220}#({151}#{215})#{221}
+Proche-Orient,hors Chypre,{220}#{222}
+Égypte et Nubie,hors Chypre,{190}+{6}+{228}+{95}+{13}+[{74}#{28}#{78}]
+Égypte et Nubie,hors Chypre,[{93}#{28}]/{230}
+Égypte et Nubie,hors Chypre,[{93}#{28}]/{6}
+Égypte et Nubie,hors Chypre,{234}#{231}
+Égypte et Nubie,hors Chypre,[{93}#{28}]/{230}
+Égypte et Nubie,hors Chypre,{234}#{231}
+Égypte et Nubie,hors Chypre,{234}#{231}
+Égypte et Nubie,hors Chypre,[{28}#{93}]/[{234}#{231}]
+Égypte et Nubie,hors Chypre,{28}/[{234}#{231}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{190}+{6}+{228}+{95}+{13}+[{74}#{28}#{78}]
+Égypte et Nubie,hors Chypre,{6}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,[{28}#{93}]/{104}
+Égypte et Nubie,hors Chypre,{190}/{28}
+Égypte et Nubie,hors Chypre,[{26}#{233}]+[{144}#{28}]
+Inconnue,hors Chypre,{28}#{236}
+Proche-Orient,hors Chypre,[{28}#{313}]#{14}
+Proche-Orient,hors Chypre,{48}#{50}
+Proche-Orient,hors Chypre,{28}#{204}
+Proche-Orient,hors Chypre,{14}#{313}
+Proche-Orient,hors Chypre,[{28}#{313}]#{14}
+Proche-Orient,hors Chypre,{28}#{14}
+Proche-Orient,hors Chypre,{45}/{39}
+Proche-Orient,hors Chypre,{39}#{48}
+Égypte et Nubie,hors Chypre,[{104}={190}]+[{6}={252}]+[{21}={228}]+[{13}={253}]+[{74}#{28}]
+Égypte et Nubie,hors Chypre,{234}#{231}
+Proche-Orient,hors Chypre,{4}#({204}+{12})
+Proche-Orient,hors Chypre,{110}
+Égypte et Nubie,hors Chypre,([{190}={104}]/[{252}={6}]/[{228}={21}]/[{253}={13}]/[{254}={255}]/[{256}={11}])#[{28}#{93}]+{74}#[{257}#{67}]
+Égypte et Nubie,hors Chypre,{28}/{95}#{258}
+Égypte et Nubie,hors Chypre,[{26}#{95}]+[{144}#{28}]
+Proche-Orient,hors Chypre,{58}#{39}#[{215}#{122}]#{259}
+Proche-Orient,hors Chypre,{215}#{39}
+Proche-Orient,hors Chypre,{110}#{152}+{111}
+Proche-Orient,hors Chypre,({151}#{215})#({207}#{265})+{110}
+Proche-Orient,hors Chypre,{48}#[{58}#{124}]
+Proche-Orient,hors Chypre,{50}#{264}#{124}#[{271}#{272}]
+Égypte et Nubie,hors Chypre,({95}/{147}/{267}/{104})#[{28}#{27}]
+Proche-Orient,hors Chypre,({276}+{274})#({151}#{152}+{153})
+Proche-Orient,hors Chypre,{274}#({151}#{152}+{111})
+Proche-Orient,hors Chypre,{282}#({271}#{283})
+Proche-Orient,hors Chypre,{220}#({151}#{285}#{222})
+Égypte et Nubie,hors Chypre,{242}#{28}
+Égypte et Nubie,hors Chypre,{7}
+Iles égéennes,hors Chypre,{13}#{289}
+Iles égéennes,hors Chypre,{4}#{290}
+Asie Mineure,hors Chypre,{9}#{303}
+Asie Mineure,hors Chypre,{15}#{219}
+Asie Mineure,hors Chypre,{3}#{300}
+Asie Mineure,hors Chypre,{3}#{302}
+Asie Mineure,hors Chypre,{21}#{305}
+Asie Mineure,hors Chypre,{16}#{306}
+Asie Mineure,hors Chypre,{21}#{157}
+Asie Mineure,hors Chypre,{4}#{29}+{15}#{29}
+Asie Mineure,hors Chypre,{16}+[{16}#{309}]
+Asie Mineure,hors Chypre,{3}#{310}
+Asie Mineure,hors Chypre,{1}#{311}
+Asie Mineure,hors Chypre,{18}#{197}
+Asie Mineure,hors Chypre,{309}#{27}
+Asie Mineure,hors Chypre,{201}#{93}
+Asie Mineure,hors Chypre,{63}#{64}
+Asie Mineure,hors Chypre,{16}+[{309}#{310}]
+Asie Mineure,hors Chypre,{326}#({327}+{328})
+Asie Mineure,hors Chypre,{1}#{335}
+Asie Mineure,hors Chypre,{11}#{238}
+Asie Mineure,hors Chypre,{1}#{336}
+Asie Mineure,hors Chypre,{326}#{328}
+Asie Mineure,hors Chypre,{4}#{337}
+Asie Mineure,hors Chypre,{4}#{338}
+Égypte et Nubie,hors Chypre,[[{298}+{258}]#{28}#{95}#{93}]+{147}+{267}+{98}+[{104}/{190}]+{301}
+Égypte et Nubie,hors Chypre,[[{298}+{258}]#{28}#{95}#{93}]+{147}+{267}+{98}+[{104}/{190}]+{301}
+Égypte et Nubie,hors Chypre,{95}/{147}/{304}+[{298}+{258}]#{28}
+Égypte et Nubie,hors Chypre,{190}/{95}/{6}/{15}+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{95}/{147}/{304}+[{298}#{28}]
+Égypte et Nubie,hors Chypre,[{28}#{95}]+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,({147}/{95})#{27}
+Égypte et Nubie,hors Chypre,({147}/{95})#[{28}#{27}]
+Égypte et Nubie,hors Chypre,[{258}#{312}]#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{312}#[{28}#{93}]
+Proche-Orient,hors Chypre,{28}#{313}
+Égypte et Nubie,hors Chypre,[[{93}#{28}]#{95}]#{258}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Inconnue,hors Chypre,{28}#({81}/{12})
+Inconnue,hors Chypre,[{28}#{81}]#{12}
+Inconnue,hors Chypre,{180}#{315}
+Inconnue,hors Chypre,[{63}#{64}]+{67}
+Inconnue,hors Chypre,{63}#({64}+{67})
+Proche-Orient,hors Chypre,[{28}#{313}]#{14}
+Proche-Orient,hors Chypre,[{28}#{313}]#{317}
+Proche-Orient,hors Chypre,[{28}#{313}]#{317}
+Égypte et Nubie,hors Chypre,[[{258}+{298}]#{28}]#({78}+{78})
+Égypte et Nubie,hors Chypre,{26}#[{28}/{95}]
+Égypte et Nubie,hors Chypre,{26}#({28}/{95})
+Asie Mineure,hors Chypre,{4}#{167}
+Asie Mineure,hors Chypre,{63}#{64}
+Égypte et Nubie,hors Chypre,{95}#[{258}+{298}]+[({74}/[{78}+{78}])#{28}]
+Égypte et Nubie,hors Chypre,[{298}+{258}]#{95}
+Égypte et Nubie,hors Chypre,[{298}+{258}]#{95}
+Égypte et Nubie,hors Chypre,[{298}+{258}]#{95}/[{28}#{93}]
+Asie Mineure,hors Chypre,{16}#{134}
+Égypte et Nubie,hors Chypre,{339}/[{340}#{341}]+[{28}#{27}]
+Asie Mineure,hors Chypre,{4}#{337}
+Asie Mineure,hors Chypre,{4}#{8}
+Asie Mineure,hors Chypre,({4}#{29})+({15}#{29})
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{4}#{204}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Asie Mineure,hors Chypre,{16}#{134}
+Égypte et Nubie,hors Chypre,[{93}#{28}]#{95}+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}#{258}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}#{93}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{230}#{347}
+Égypte et Nubie,hors Chypre,{93}#{95}/{28}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{3}#{310}
+Asie Mineure,hors Chypre,{21}#{305}
+Asie Mineure,hors Chypre,[{1}#{350}]+[{9}#{350}]+[{1}#{2}]+[{1}#{160}]+[{351}#{352}]
+Asie Mineure,hors Chypre,[{4}#{353}]+[{15}#{353}]
+Afrique du nord,hors Chypre,{48}#{151}#[{354}#{355}]
+Égypte et Nubie,hors Chypre,{95}#{26}
+Égypte et Nubie,hors Chypre,({28}+{26})#{95}
+Asie Mineure,hors Chypre,{15}#{219}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{3}#{300}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,[[{93}#{28}]#{95}#{258}]+[{298}#{28}]
+Asie Mineure,hors Chypre,{16}#{306}
+Asie Mineure,hors Chypre,{6}#{169}
+Égypte et Nubie,hors Chypre,[{26}#{95}]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{26}{95}
+Asie Mineure,hors Chypre,{28}#{357}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,([{93}#{28}]/{26})#[{27}/{95}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{6}#{169}
+Asie Mineure,hors Chypre,{28}#{357}
+Asie Mineure,hors Chypre,{9}#{358}
+Égypte et Nubie,hors Chypre,[{26}#{95}]+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{95}#{26}
+Asie Mineure,hors Chypre,{11}#{359}#{360}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{13}#{310}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Asie Mineure,hors Chypre,{13}#{248}
+Asie Mineure,hors Chypre,{3}#{310}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{95}#{26}
+Égypte et Nubie,hors Chypre,{95}#{26}
+Égypte et Nubie,hors Chypre,{93}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,[{93}#{28}]#[{26}#{95}#{258}]
+Égypte et Nubie,hors Chypre,{26}#{95}#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Grèce continentale,hors Chypre,{4}#{177}
+Égypte et Nubie,hors Chypre,[{93}#{28}]#[{26}#{95}]
+Grèce continentale,hors Chypre,{11}#{34}
+Grèce continentale,hors Chypre,{1}#{29}
+Grèce continentale,hors Chypre,{182}
+Grèce continentale,hors Chypre,{15}#{198}
+Égypte et Nubie,hors Chypre,[{28}#{34}]/[{230}#{362}]
+Grèce continentale,hors Chypre,{1}#{75}
+Égypte et Nubie,hors Chypre,{26}#{28}/{95}
+Égypte et Nubie,hors Chypre,{26}#[{28}/{95}]
+Égypte et Nubie,hors Chypre,[{26}#{28}]/{95}
+Grèce continentale,hors Chypre,{363}+[{9}#{162}]
+Égypte et Nubie,hors Chypre,{230}#{347}
+Égypte et Nubie,hors Chypre,{93}#{95}#{28}
+Grèce continentale,hors Chypre,[{4}#{177}]+[{15}#{177}]+[{18}#{364}]+[{18}#{365}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Grèce continentale,hors Chypre,{82}#{367}
+Égypte et Nubie,hors Chypre,[{93}#{28}]#[{369}/{95}]
+Grèce continentale,hors Chypre,{82}#{368}
+Grèce continentale,hors Chypre,{18}#{366}
+Grèce continentale,hors Chypre,{4}#{204}
+Grèce continentale,hors Chypre,{82}#{368}
+Égypte et Nubie,hors Chypre,[{28}/{95}]#{93}
+Égypte et Nubie,hors Chypre,{26}#{28}/{95}
+Égypte et Nubie,hors Chypre,{4}#{337}
+Égypte et Nubie,hors Chypre,{4}/{397}
+Égypte et Nubie,hors Chypre,{27}/{4}
+Égypte et Nubie,hors Chypre,[[{93}#{28}]/{95}#{258}]+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{95}+{147}+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{230}#{347}
+Égypte et Nubie,hors Chypre,{93}#{95}/{28}#{258}
+Proche-Orient,hors Chypre,{48}+[{47}#{122}]
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Égypte et Nubie,hors Chypre,{26}#{95}#{258}
+Proche-Orient,hors Chypre,{47}
+Proche-Orient,hors Chypre,{4}#({204}+{93}+{12})
+Proche-Orient,hors Chypre,{399}#{28}
+Proche-Orient,hors Chypre,{207}#{401}
+Égypte et Nubie,hors Chypre,{398}#{95}
+Proche-Orient,hors Chypre,[{47}#{122}]
+Proche-Orient,hors Chypre,{236}#{28}#{93}
+Proche-Orient,hors Chypre,[{47}#{122}]
+Égypte et Nubie,hors Chypre,{95}/{402}
+Égypte et Nubie,hors Chypre,[{185}#{403}]+[{404}/{147}#{405}]
+Égypte et Nubie,hors Chypre,{95}#{406}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,[{407}#{95}]+[{298}#{28}]
+Égypte et Nubie,hors Chypre,{95}#{408}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Égypte et Nubie,hors Chypre,{409}#{95}
+Égypte et Nubie,hors Chypre,{1}/[{356}#{185}]
+Égypte et Nubie,hors Chypre,[{1}#{356}]/{185}
+Égypte et Nubie,hors Chypre,{407}#{95}
+Afrique du nord,hors Chypre,[[{48}#{410}]+{411}]({215}#{412})
+Proche-Orient,hors Chypre,[{39}#{413}]
+Égypte et Nubie,hors Chypre,[{26}#{95}#({258}+{298})]+[{144}#{28}#{78}]
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,[{407}#{95}#({258}+{298})]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{407}#{95}#({258}+{298})
+Égypte et Nubie,hors Chypre,([{26}#{414}]+{95})#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{415}#{230}
+Égypte et Nubie,hors Chypre,{230}#{417}
+Inconnue,hors Chypre,{51}#{416}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Égypte et Nubie,hors Chypre,[[{419}#{404}]/{95}]+[[{419}#{404}]/{414}]
+Égypte et Nubie,hors Chypre,[{26}#{95}]+{147}
+Afrique du nord,hors Chypre,{48}#{420}
+Égypte et Nubie,hors Chypre,{95}#{258}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,[[{28}#{93}]/{95}]+[{298}#{28}]
+Égypte et Nubie,hors Chypre,[{93}#{28}]/{95}
+Égypte et Nubie,hors Chypre,{95}#{26}
+Égypte et Nubie,hors Chypre,{28}/{95}
+Égypte et Nubie,hors Chypre,{28}/{95}
+Égypte et Nubie,hors Chypre,{28}/{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{26}#{95}#{258}
+Proche-Orient,hors Chypre,{51}#{416}
+Égypte et Nubie,hors Chypre,{95}#{93}
+Égypte et Nubie,hors Chypre,{26}{95}
+Égypte et Nubie,hors Chypre,[{26}#{404}]#{95}#({258}+{298}+{421})
+Égypte et Nubie,hors Chypre,{26}{95}
+Asie Mineure,hors Chypre,{9}#{422}
+Asie Mineure,hors Chypre,{9}/{422}
+Proche-Orient,hors Chypre,[{47}#{115}]+{58}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Proche-Orient,hors Chypre,{151}#{215}#{430}
+Proche-Orient,hors Chypre,{4}#{93}#{108}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}[#{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}/{151}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{47}#{49}
+Afrique du nord,hors Chypre,[{48}/[{151}#{124}]]#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,{111}#{152}+{489}
+Proche-Orient,hors Chypre,({490}+{493})#{151}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{348}#{28}
+Proche-Orient,hors Chypre,{400}#{151}
+Proche-Orient,hors Chypre,{28}
+Proche-Orient,hors Chypre,{151}
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]#{151}
+Proche-Orient,hors Chypre,({496}+{64}#{497}+{498})#{34}#{28}
+Proche-Orient,hors Chypre,({493}+{282}#{500}+{499})#{151}#{152}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}][+[{215}#[{45}#{46}#]{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,{28}#{34}
+Proche-Orient,hors Chypre,{151}
+Proche-Orient,hors Chypre,{151}
+Grèce continentale,hors Chypre,{3}#[{295}#{314}]+{363}
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#({152}+{153})
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Grèce continentale,hors Chypre,{15}#{5}
+Grèce continentale,hors Chypre,{28}#{333}
+Grèce continentale,hors Chypre,{28}#{333}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#]]{49}[+{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#({152}+{153})
+Proche-Orient,hors Chypre,([{47}#{115}]+{505})#{151}#({152}+{153})
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#{152}
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#({152}+{153})
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}
+Proche-Orient,hors Chypre,([{47}#{115}]+{505})#{151}#({152}+{153})
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]+[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{124}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Grèce continentale,hors Chypre,{28}#{333}
+Grèce continentale,hors Chypre,{15}#{136}
+Grèce continentale,hors Chypre,{11}#{477}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+{45}
+Afrique du nord,hors Chypre,[{48}#{47}]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]
+Afrique du nord,hors Chypre,[{215}#[{45}#[{46}#{47}]]]+[{48}#[{47}#{49}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{151}/{55}#[{47}#{55}]
+Afrique du nord,hors Chypre,[{151}#{55}]#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]+{45}
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}[#{47}#]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{55}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]#{124}
+Afrique du nord,hors Chypre,{47}+[{45}#[{46}#{47}]]+{516}
+Afrique du nord,hors Chypre,{45}#[{46}#{47}]
+Afrique du nord,hors Chypre,{47}+{517}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{285}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{47}#{55}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}[#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{55}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{6}#{520}
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#{45}]
+Afrique du nord,hors Chypre,{47}#{55}
+Afrique du nord,hors Chypre,{48}#[{47}#{124}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{215}#{45}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{1}#{146}
+Grèce continentale,hors Chypre,{1}#{29}
+Grèce continentale,hors Chypre,{4}#{91}
+Grèce continentale,hors Chypre,{75}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{15}#{5}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#{47}#{49}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#{47}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{9}#{83}
+Grèce continentale,hors Chypre,{9}/{83}
+Grèce continentale,hors Chypre,{83}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{184}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Grèce continentale,hors Chypre,{4}#{169}
+Afrique du nord,hors Chypre,[{48}#[{45}#[{46}#{47}]]]+[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{75}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}/{174}
+Grèce continentale,hors Chypre,{1}#{174}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#{47}]+[{45}[#{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{4}#{5}
+Grèce continentale,hors Chypre,{4}#{176}
+Grèce continentale,hors Chypre,{1}#{29}
+Grèce continentale,hors Chypre,{4}#{5}
+Grèce continentale,hors Chypre,{15}#{5}
+Grèce continentale,hors Chypre,{185}
+Grèce continentale,hors Chypre,{4}#{177}
+Grèce continentale,hors Chypre,{1}#{2}
+Grèce continentale,hors Chypre,{1}#{182}
+Grèce continentale,hors Chypre,{4}#{175}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Grèce continentale,hors Chypre,{4}#{5}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{4}#{5}
+Grèce continentale,hors Chypre,[{11}#{335}]/{363}
+Grèce continentale,hors Chypre,{523}#{28}
+Grèce continentale,hors Chypre,{137}#{524}
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}
+Proche-Orient,hors Chypre,[{47}#{115}]+{505}
+Grèce continentale,hors Chypre,{4}#{91}
+Proche-Orient,hors Chypre,[{47}#{115}]+{505}
+Grèce continentale,hors Chypre,{201}#{532}
+Proche-Orient,hors Chypre,([{47}#{115}]+{505})#{151}#{152}
+Proche-Orient,hors Chypre,[{47}#{115}]+{505}+{535}+({282}#{536})
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}
+Proche-Orient,hors Chypre,[{47}#]+{505}+({207}#{538})
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{9}
+Grèce continentale,hors Chypre,{4}#{511}
+Proche-Orient,hors Chypre,[{28}#{313}]#{317}
+Grèce continentale,hors Chypre,{129}/[{4}#{127}]/{82}
+Iles égéennes,hors Chypre,{4}#{514}
+Iles égéennes,hors Chypre,{17}#{539}
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}
+Proche-Orient,hors Chypre,[{47}#{115}]+{505}
+Proche-Orient,hors Chypre,{151}
+Proche-Orient,hors Chypre,[{47}#{115}]+{505}
+Proche-Orient,hors Chypre,{151}
+Proche-Orient,hors Chypre,[{560}#{562}]+{565}
+Proche-Orient,hors Chypre,{560}#({562}+{565})
+Iles égéennes,hors Chypre,{1}#{75}
+Iles égéennes,hors Chypre,{136}
+Grèce continentale,hors Chypre,{186}#{14}
+Grèce continentale,hors Chypre,{540}#{309}
+Grèce continentale,hors Chypre,{4}#{189}
+Grèce continentale,hors Chypre,{4}#{5}
+Grèce continentale,hors Chypre,{137}#{551}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{4}#{188}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{4}#{189}
+Grèce continentale,hors Chypre,{137}#{551}
+Grèce continentale,hors Chypre,{4}#{91}
+Grèce continentale,hors Chypre,{185}
+Grèce continentale,hors Chypre,{9}#{186}
+Grèce continentale,hors Chypre,{75}#{1}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{137}#{552}
+Grèce continentale,hors Chypre,{137}#{550}
+Grèce continentale,hors Chypre,{4}#{188}
+Grèce continentale,hors Chypre,{137}#{553}
+Grèce continentale,hors Chypre,{4}#{188}
+Proche-Orient,hors Chypre,({410}#{151})+{554}
+Proche-Orient,hors Chypre,[{47}#{115}]+[{47}{122}]+[{123}#[{58}#{122}]#{124}]
+Proche-Orient,hors Chypre,[{58}#{122}]#{124}
+Proche-Orient,hors Chypre,[{47}#{122}]#{48}
+Proche-Orient,hors Chypre,[{47}#{122}]
+Péninsule italique,hors Chypre,({555}+{496})#({34}#{28})
+Péninsule italique,hors Chypre,{493}+({151}#{559})
+Égypte et Nubie,hors Chypre,{556}#({557}/{558})
+Péninsule italique,hors Chypre,{151}
+Proche-Orient,hors Chypre,{560}#({561}+{565})
+Proche-Orient,hors Chypre,[{560}#{561}]+{565}
+Égypte et Nubie,hors Chypre,{1}+{4}+[{564}#{28}]
+Égypte et Nubie,hors Chypre,{1}+{4}+[{564}#{28}]
+Égypte et Nubie,hors Chypre,{3}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{8}#{4}/{25}#{93}#{147}
+Proche-Orient,hors Chypre,({555}+{496})#{28}#({415}#{566})
+Proche-Orient,hors Chypre,({490}+{493})#{151}#{567}
+Proche-Orient,hors Chypre,{4}/{569}#({28}#{93})
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Égypte et Nubie,hors Chypre,{93}#{147}
+Égypte et Nubie,hors Chypre,({28}+{28}+{67})#({93}/[{570}#{571}])
+Grèce continentale,hors Chypre,{4}#{238}
+Grèce continentale,hors Chypre,{1}#{31}
+Grèce continentale,hors Chypre,{63}#{67}
+Grèce continentale,hors Chypre,[{4}#{157}]+[{21}#{157}]
+Grèce continentale,hors Chypre,[{4}#{157}]+[{21}#{157}]
+Proche-Orient,hors Chypre,[{207}#{401}]#{152}+{111}
+Proche-Orient,hors Chypre,{110}
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{482}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}[#{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,[{560}#{561}]+{565}
+Proche-Orient,hors Chypre,{560}#({561}+{565})
+Égypte et Nubie,hors Chypre,{95}/{28}
+Proche-Orient,hors Chypre,[{560}#{561}]+{565}
+Proche-Orient,hors Chypre,{560}#({561}+{565})
+Égypte et Nubie,hors Chypre,{180}#[{573}#{574}]
+Égypte et Nubie,hors Chypre,{576}#[{575}#[{574}#{230}]]
+Égypte et Nubie,hors Chypre,{577}#[{579}#[{578}#{580}]]
+Égypte et Nubie,hors Chypre,{578}#{581}
+Afrique du nord,hors Chypre,{48}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,({110}#({152}+{111}()+{583}#{124}#{582}
+Proche-Orient,hors Chypre,{151}
+Égypte et Nubie,hors Chypre,{28}#[{93}/{93}]
+Proche-Orient,hors Chypre,[{560}#{561}]
+Proche-Orient,hors Chypre,{410}#{151}#{152}#{600}
+Égypte et Nubie,hors Chypre,{26}#{95}/{588}
+Égypte et Nubie,hors Chypre,{26}#{95}
+Égypte et Nubie,hors Chypre,{93}#{147}
+Égypte et Nubie,hors Chypre,{590}+[{28}#({74}/{591})]
+Égypte et Nubie,hors Chypre,{4}#{337}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Égypte et Nubie,hors Chypre,{4}#{337}
+Égypte et Nubie,hors Chypre,[{95}/[{28}#{93}]]+[{144}#{28}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+{45}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+{215}#{45}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+{215}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,{110}#({152}+{111})+{583}#{582}#{124}
+Proche-Orient,hors Chypre,{110}#{151}={152}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}
+Égypte et Nubie,hors Chypre,({3}+{95})/[{28}#{93}]
+Égypte et Nubie,hors Chypre,[{3}/[{28}#{93}]]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{592}#{28}
+Égypte et Nubie,hors Chypre,{93}#{147}
+Grèce continentale,hors Chypre,{1}#{494}
+Égypte et Nubie,hors Chypre,{596}#{28}#{93}
+Égypte et Nubie,hors Chypre,{596}
+Égypte et Nubie,hors Chypre,{3}/[{28}#{596}]
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{494}
+Égypte et Nubie,hors Chypre,{144}#{28}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{494}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Grèce continentale,hors Chypre,{1}#{494}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{494}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Grèce continentale,hors Chypre,{1}#{494}
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{45}#[{46}#{47}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{47}#{55}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{184}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{215}#[{45}#[{46}#{47}]]]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{184}
+Afrique du nord,hors Chypre,{48}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{45}#[{46}#{47}]]
+Grèce continentale,hors Chypre,{137}#{597}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{137}#{599}
+Grèce continentale,hors Chypre,{137}#{598}
+Grèce continentale,hors Chypre,{199}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{15}#{198}
+Grèce continentale,hors Chypre,{184}
+Proche-Orient,hors Chypre,{276}#{151}
+Égypte et Nubie,hors Chypre,[{1}#{73}]/[{9}#{358}]/[{9}#{601}]/[{602}#{603}]/[{17}#{19}]
+Égypte et Nubie,hors Chypre,[{28}#{93}]#{604}
+Égypte et Nubie,hors Chypre,{28}#({93}/{604})
+Proche-Orient,hors Chypre,[{124}/{58}]
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Grèce continentale,hors Chypre,{16}#{134}
+Grèce continentale,hors Chypre,{1}
+Grèce continentale,hors Chypre,{15}#{198}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{200}
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{4}#{606}
+Égypte et Nubie,hors Chypre,{28}#{93}
+Égypte et Nubie,hors Chypre,{28}/{95}
+Égypte et Nubie,hors Chypre,{255}/[{28}#{93}]
+Proche-Orient,hors Chypre,{207}#{285}
+Proche-Orient,hors Chypre,{151}
+Proche-Orient,hors Chypre,[#{607}{58}]
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Proche-Orient,hors Chypre,[#{47}]
+Proche-Orient,hors Chypre,{47}
+Proche-Orient,hors Chypre,{25}#({34}+{12})#{28}
+Proche-Orient,hors Chypre,{220}#{151}#{152}
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Grèce continentale,hors Chypre,{200}
+Proche-Orient,hors Chypre,({490}+{493})#{151}
+Grèce continentale,hors Chypre,{134}#{609}
+Égypte et Nubie,hors Chypre,{95}/[{28}#{93}]
+Grèce continentale,hors Chypre,{184}
+Égypte et Nubie,hors Chypre,({95}+{6})#[{28}#{93}]
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#({152}+{153})
+Grèce continentale,hors Chypre,{137}#{614}
+Égypte et Nubie,hors Chypre,{255}#[{28}#{93}]
+Grèce continentale,hors Chypre,{137}#{614}
+Grèce continentale,hors Chypre,{137}#{614}
+Grèce continentale,hors Chypre,{137}#{136}
+Égypte et Nubie,hors Chypre,{95}#{633}
+Égypte et Nubie,hors Chypre,{95}#({634}/[{28}#{93}])
+Grèce continentale,hors Chypre,{13}#{72}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Égypte et Nubie,hors Chypre,{267}#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{95}#[{28}#{93}]
+Afrique du nord,hors Chypre,({47}/{45})#{47}
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#{47}
+Égypte et Nubie,hors Chypre,{95}#[{28}#{93}]
+Afrique du nord,hors Chypre,{47}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{47}
+Grèce continentale,hors Chypre,{3}#{295}
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{124}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{282}#{48}/[{635}#[{47}#{49}]]
+Afrique du nord,hors Chypre,[{151}#{636}]+{637}/{124}
+Afrique du nord,hors Chypre,[{48}#[{47}#{49}]]+[{48}#[{45}#[{46}#{47}]]]
+Proche-Orient,hors Chypre,{151}#{638}#{152}
+Proche-Orient,hors Chypre,{151}/{638}#{152}
+Proche-Orient,hors Chypre,[{47}#{115}]#[{207}#{401}]
+Proche-Orient,hors Chypre,[{47}#{115}]
+Afrique du nord,hors Chypre,[{673}#[{645}#{674}]]+[{675}#[{643}#[{644}#{645}]]]
+Proche-Orient,hors Chypre,[{47}#{115}]#({215}+{111})
+Proche-Orient,hors Chypre,({641}#{151})=({282}#{642})
+Proche-Orient,hors Chypre,[{47}#{639}]
+Afrique du nord,hors Chypre,{640}
+Afrique du nord,hors Chypre,{255}/{643}#[{644}#{645}]
+Proche-Orient,hors Chypre,[{495}#{689}]+[{47}#{115}]
+Égypte et Nubie,hors Chypre,{95}#({407}/[{28}#{93}]/{646}/[{64}#{647}])
+Égypte et Nubie,hors Chypre,{95}#({407}/[{28}#{93}])/[{646}#{64}#{647}]
+Égypte et Nubie,hors Chypre,[{4}/{25}]#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{26}#{665}
+Égypte et Nubie,hors Chypre,({147}+{665}+{104})#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{665}#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{28}#{666}
+Égypte et Nubie,hors Chypre,[{28}#{93}]#{693}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{200}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,[{495}#{689}]
+Proche-Orient,hors Chypre,{495}
+Proche-Orient,hors Chypre,({276}+{690}+[{209}#{58}])#({151}#{152})
+Grèce continentale,hors Chypre,{15}#{679}
+Proche-Orient,hors Chypre,[{47}#{122}]#{48}
+Proche-Orient,hors Chypre,[{47}#{122}]
+Grèce continentale,hors Chypre,{17}#{682}
+Grèce continentale,hors Chypre,[{541}+{692}]+{184}
+Proche-Orient,hors Chypre,{495}+{400}
+Grèce continentale,hors Chypre,{184}
+Proche-Orient,hors Chypre,{28}#{139}
+Proche-Orient,hors Chypre,{282}
+Proche-Orient,hors Chypre,[{47}#{115}]#{151}#({152}+{153})
+Grèce continentale,hors Chypre,{1}#{75}
+Grèce continentale,hors Chypre,{1}#{75}
+Proche-Orient,hors Chypre,[{47}#{122}]#{48}
+Proche-Orient,hors Chypre,[{47}#{122}]
+Proche-Orient,hors Chypre,[{47}#{55}]+{47}+[{218}#{58}]
+Proche-Orient,hors Chypre,{47}+[{218}#{58}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,[{47}#{122}]
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{58}
+Proche-Orient,hors Chypre,{215}/[{47}#{122}]
+Proche-Orient,hors Chypre,{218}#[{58}#{122}]
+Proche-Orient,hors Chypre,({495}+{400}+{490})#{151}
+Proche-Orient,hors Chypre,({410}+{554})#{151}#{152}
+Proche-Orient,hors Chypre,{495}+{490}+{400}
+Grèce continentale,hors Chypre,{137}#{683}
+Grèce continentale,hors Chypre,{679}
+Grèce continentale,hors Chypre,{15}#{679}
+Grèce continentale,hors Chypre,{694}+[{137}#{683}]
+Grèce continentale,hors Chypre,{184}
+Grèce continentale,hors Chypre,{137}#{683}
+Grèce continentale,hors Chypre,{137}#{684}
+Grèce continentale,hors Chypre,{137}#{162}
+Égypte et Nubie,hors Chypre,{5}#[{4}/{25}#{93}#{147}]#{695}
+Égypte et Nubie,hors Chypre,{5}#[[[{4}/{25}]#{93}]/{147}]#{695}
+Grèce continentale,hors Chypre,{1}#{34}
+Grèce continentale,hors Chypre,{15}#{691}
+Grèce continentale,hors Chypre,{18}#{681}
+Grèce continentale,hors Chypre,{137}#{686}
+Grèce continentale,hors Chypre,{137}#{688}
+Grèce continentale,hors Chypre,{137}#{687}
+Égypte et Nubie,hors Chypre,[[[{4}/{25}]#{93}]/{147}]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{743}#[{5}#{147}]
+Égypte et Nubie,hors Chypre,{743}#[{727}#{147}]
+Grèce continentale,hors Chypre,{4}#{205}
+Grèce continentale,hors Chypre,{15}#{679}
+Grèce continentale,hors Chypre,[{4}#{27}]/[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]+{696}+{139}
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]+{696}+{139}
+Grèce continentale,hors Chypre,[{4}#{27}]+[{15}#{27}]
+Proche-Orient,hors Chypre,{47}
+Grèce continentale,hors Chypre,{4}#{27}
+Grèce continentale,hors Chypre,{3}#{451}
+Grèce continentale,hors Chypre,{11}#{452}
+Grèce continentale,hors Chypre,{137}#{697}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Proche-Orient,hors Chypre,{48}+[{707}#{47}]
+Grèce continentale,hors Chypre,[{4}#{27}]#{742}
+Grèce continentale,hors Chypre,{4}#[{27}#{742}]
+Grèce continentale,hors Chypre,{28}#{746}
+Grèce continentale,hors Chypre,{11}#{335}
+Égypte et Nubie,hors Chypre,{747}
+Égypte et Nubie,hors Chypre,[{93}#{64}]#{747}
+Grèce continentale,hors Chypre,{13}#{474}
+Égypte et Nubie,hors Chypre,[{28}#{93}]#{95}
+Grèce continentale,hors Chypre,{11}#{335}
+Égypte et Nubie,hors Chypre,{428}#{28}#({93}/{93})
+Égypte et Nubie,hors Chypre,{28}#{93}
+Égypte et Nubie,hors Chypre,[{143}#[{28}#{93}]]+[{144}#{28}]
+Égypte et Nubie,hors Chypre,{256}#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{104}#[{28}#{93}]
+Égypte et Nubie,hors Chypre,{28}#{93}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{75}
+Grèce continentale,hors Chypre,{205}#{4}
+Égypte et Nubie,hors Chypre,[{26}#{1}]+{26}
+Grèce continentale,hors Chypre,{180}+[{28}#{78}]
+Grèce continentale,hors Chypre,{4}#{167}
+Grèce continentale,hors Chypre,{15}#{450}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{1}#{75}
+Grèce continentale,hors Chypre,{714}
+Grèce continentale,hors Chypre,{137}#{754}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#{47}
+Afrique du nord,hors Chypre,{48}#{47}#{49}
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Afrique du nord,hors Chypre,{48}#[{47}#{49}]
+Grèce continentale,hors Chypre,{3}#{302}
+Iles égéennes,hors Chypre,{18}#{773}
+Iles égéennes,hors Chypre,{18}#{774}
+Iles égéennes,hors Chypre,{16}#{134}
+Iles égéennes,hors Chypre,{4}#{758}
+Iles égéennes,hors Chypre,{13}#{776}
+Iles égéennes,hors Chypre,[{4}#{85}]/[{82}#{85}]
+Iles égéennes,hors Chypre,{13}#{248}
+Iles égéennes,hors Chypre,{1}#{778}
+Iles égéennes,hors Chypre,{4}#{338}
+Grèce continentale,hors Chypre,{3}#{302}
+Proche-Orient,hors Chypre,{4}#({204}+{12})
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}#({207}#{218}#{401}#{152})
+Proche-Orient,hors Chypre,{110}/({207}#{218}#{401}#{152})
+Grèce continentale,hors Chypre,{185}/{246}
+Grèce continentale,hors Chypre,{13}#{531}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{308}
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{58}#{124}
+Proche-Orient,hors Chypre,{39}#{215}
+Proche-Orient,hors Chypre,{58}=({39}+{50}#[{264}#{124}#{271}#{272}])
+Proche-Orient,hors Chypre,[{58}#{53}]=([{47}#{53}]+{39}#[{607}#]{47})
+Proche-Orient,hors Chypre,{58}#{124}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}+{111}#{152}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}#{151}#({152}+{153})
+Grèce continentale,hors Chypre,[{784}+{309}]#{200}
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Grèce continentale,hors Chypre,{34}/{431}
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{788}#({111}+{152})
+Grèce continentale,hors Chypre,{785}
+Grèce continentale,hors Chypre,{15}#{786}
+Grèce continentale,hors Chypre,{17}
+Grèce continentale,hors Chypre,{4}#{8}
+Grèce continentale,hors Chypre,{473}
+Grèce continentale,hors Chypre,{28}#{91}
+Grèce continentale,hors Chypre,{787}#{784}
+Proche-Orient,hors Chypre,{110}
+Proche-Orient,hors Chypre,{110}#({111}+{152})
+Proche-Orient,hors Chypre,{110}#({152}+{111})
+Proche-Orient,hors Chypre,{110}#{111}#{152}
+Proche-Orient,hors Chypre,{110}={111}#{152}
+Grèce continentale,hors Chypre,{16}#{714}
+Grèce continentale,hors Chypre,{16}+{309}
+Proche-Orient,hors Chypre,{58}
+Proche-Orient,hors Chypre,{25}#({28}#{93})
+Grèce continentale,hors Chypre,{17}#{789}
+Égypte et Nubie,hors Chypre,{28}
+Proche-Orient,hors Chypre,{110}
+Grèce continentale,hors Chypre,{17}#{789}
+Grèce continentale,hors Chypre,{17}#{789}
+Grèce continentale,hors Chypre,{17}#{789}
+Grèce continentale,hors Chypre,{4}#{205}
+Grèce continentale,hors Chypre,{4}#{205}
+Grèce continentale,hors Chypre,{4}#{205}
+Chypre,phénicien,{215}#{39}
+Chypre,phénicien,{59}#{196}
+Chypre,phénicien,{48}#[{59}#{196}]
+Chypre,phénicien,{50}/{51}
+Chypre,phénicien,{50}#{51}
+Chypre,phénicien,{48}#[{50}/{51}]
+Chypre,phénicien,{48}#[{50}#{51}]
+Chypre,phénicien,{48}#[{50}/{51}]
+Chypre,phénicien,{48}#[{50}#{51}]
+Chypre,phénicien,{50}/{51}
+Chypre,phénicien,{50}#{51}
+Chypre,phénicien,{50}/{51}
+Chypre,phénicien,{50}#{51}
+Chypre,phénicien,{50}/{51}
+Chypre,phénicien,{50}#{51}
+Chypre,phénicien,{48}#[{50}#{51}]
+Chypre,phénicien,{48}#[{50}/{51}]
+Chypre,phénicien,{47}#{308}
+Chypre,phénicien,{215}#[{56}#{57}]
+Chypre,phénicien,{48}#{50}
+Chypre,phénicien,{58}[#{59}#{60}]
+Chypre,phénicien,{58}#[{59}/{60}]
+Chypre,phénicien,{48}#[{59}#{61}]
+Chypre,phénicien,{48}#[{59}#{62}]
+Chypre,phénicien,[{47}#{126}]#{48}
+Chypre,phénicien,{48}#[{47}#{126}]
+Chypre,phénicien,{58}#[[{59}#{60}]#{142}]
+Chypre,phénicien,{58}#[[{59}/{60}]#{142}]
+Chypre,phénicien,[{48}#{297}]#{51}
+Chypre,phénicien,[{48}{297}#]#{51}
+Chypre,phénicien,{48}#[{59}/{60}]
+Chypre,phénicien,{48}#[{59}#{60}]
+Chypre,phénicien,{223}#[{224}/{225}]
+Chypre,phénicien,{223}#[{224}#{225}]
+Chypre,phénicien,{15}#[{27}/{219}]
+Chypre,phénicien,{28}#[{1}#{195}]
+Chypre,phénicien,{1}#{23}
+Chypre,phénicien,{1}#{191}
+Chypre,phénicien,{48}#{51}
+Chypre,phénicien,{39}#{232}
+Chypre,phénicien,{215}#{223}
+Chypre,phénicien,{58}#[{59}#{60}]
+Chypre,phénicien,{58}#[{59}/{60}]
+Chypre,phénicien,{58}#[{59}#{60}]
+Chypre,phénicien,{58}#[{59}/{60}]
+Chypre,phénicien,{58}#[{59}/{60}]#{142}
+Chypre,phénicien,{58}#[{59}#{60}]#{142}
+Chypre,phénicien,{48}#[{47}#{224}]
+Chypre,phénicien,[{47}#{224}]
+Chypre,phénicien,[{47}#{224}]#{48}
+Chypre,phénicien,{48}#[{59}/{261}]
+Chypre,phénicien,{48}#[{59}#{261}]
+Chypre,phénicien,{48}#[{51}#{268}]
+Chypre,phénicien,{48}#{51}
+Chypre,phénicien,{48}#[{269}#{270}]
+Chypre,phénicien,{58}#[{39}#{270}]
+Chypre,phénicien,{215}#{39}
+Chypre,phénicien,{215}#{39}
+Chypre,phénicien,[{58}#{122}]#{270}
+Chypre,phénicien,{50}#{51}
+Chypre,phénicien,{50}/{51}
+Chypre,phénicien,[{39}#{287}]
+Chypre,phénicien,{296}#{124}
+Chypre,phénicien,{296}#{124}
+Chypre,phénicien,[{48}#{297}]#{51}
+Chypre,phénicien,{47}#{288}
+Chypre,phénicien,{47}#{49}
+Chypre,phénicien,{47}

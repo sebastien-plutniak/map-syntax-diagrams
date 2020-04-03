@@ -73,15 +73,15 @@ ui <- fluidPage(
                     <p>In this format, an onomastic sequence such as: <br>
                     &nbsp; <i>lʿštrt lʾdny lʾšmn </i>  <br>
                     is represented as: <br>
-                    &nbsp; To Astarte / [ to his lord # to Eshmoun ])  <br>
+                    &nbsp; To Astarte / [ to his lord # to Eshmoun ]  <br>
                     and encoded as: <br>
-                    &nbsp; 1 # [ 2 + 3 ]
+                    &nbsp; 1 / [ 2 # 3 ]
                     </p>
                     Numbers refer to the elements of the sequence, four 
                     symbols (+, /, #, =) qualify their relations, 
                     and grouping is allowed using brackets and parentheses.
                     <br><br>
-                    For more information, read the <a target=_blank, href=https://bit.ly/3dOgUga>documentation</a> (in French).                 
+                    For more information, read the <a target=_blank, href=https://sharedocs.huma-num.fr/wl/?id=wgwWC8huD6zui5WRdeBJan711q813TGp>documentation</a> (in French).                 
                     </div>")
                               )
                               ),
@@ -144,7 +144,7 @@ server <- function(input, output) {
     req(data)
     data <- data()
      
-    if( sum(names(data) %in% c("formule", "FORMULE", "formules", "FORMULES")) == 0  ){
+    if( sum(names(data) %in% c("formula", "formule", "FORMULE", "FORMULA", "formule", "FORMULES")) == 0  ){
       showNotification("The data table must have a 'formule' column.",
                        type = "error", duration = 40)
     }
@@ -234,7 +234,7 @@ server <- function(input, output) {
         ggplot() +
           theme_linedraw(base_size = 14) +
           geom_path(data = lengths.df, aes(x = Length, color = subset, group = subset),
-                    stat="bin", bins = max(lengths.df$Length) - 1, size= .8) +
+                    stat="bin", bins = max(lengths.df$Length) - 1, size= .5) +
           geom_vline(aes(xintercept = slider.min.max[1]),
                      linetype = 2, color = "gray50")+
           geom_vline(aes(xintercept = slider.min.max[2]),

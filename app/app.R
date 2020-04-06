@@ -81,8 +81,8 @@ ui <- fluidPage(
                     symbols (+, /, #, =) qualify their relations, 
                     and grouping is allowed using brackets and parentheses.
                     <br><br>
-                    For more information, read the <a target=_blank, href=https://sharedocs.huma-num.fr/wl/?id=wgwWC8huD6zui5WRdeBJan711q813TGp>documentation</a> (in French).                 
-                    </div>")
+                    For more information, read the <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-02532617/document>documentation</a> (in French).                 
+                    </div>")  # 
                               )
                               ),
              conditionalPanel(condition = "typeof output.userdata !== 'undefined'",
@@ -327,7 +327,7 @@ server <- function(input, output) {
         })
         res.dist
         }
-      })
+      }, rownames=T)
       
       # stats sur les graphes et tableau à télécharger  ----    
       stats <- eventReactive(input$goButton,

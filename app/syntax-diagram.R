@@ -1,10 +1,23 @@
-library(igraph) # pour les manipulations et calcul des graphes
-library(reshape2) # pour melt()
-library(TraMineR) # pour seqdef(), seqtrate()
-library(geomorph) # pour rotate.coords() (rotation des coordonnées)
-library(plyr) # pour rbind.fill()
-library(xtable) # pas utile dans le cadre de l'application
-library(NetworkDistance) # pour nd.gdd
+# Load packages
+# library(xtable) # pas utile dans le cadre de l'application
+
+packages <- c("NetworkDistance",  # pour nd.gdd
+              "geomorph", # pour rotate.coords() (rotation des coordonnées)
+              "igraph", # pour les manipulations et calcul des graphes
+              "reshape2", # pour melt()
+              "TraMineR", # pour seqdef(), seqtrate()
+              "plyr") # pour rbind.fill()
+
+# vérifie la présence des packages, les installe si absents
+pckge.check <- lapply(
+  packages,
+  FUN = function(x) {
+    if ( ! require(x, character.only = TRUE) ) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 
 # fct ajoutant les formules reformatées:
 make_map_formula <- function(df, idElement){

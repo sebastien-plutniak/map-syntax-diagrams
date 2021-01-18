@@ -5,12 +5,11 @@ library(shinythemes)
 # DEFINE UI ----
 ui <- fluidPage(
   theme = shinytheme("slate"),
-  # titlePanel("MAP syntax diagrams"),
   br(),
   a(href="https://map-polytheisms.huma-num.fr",  target="_blank",
     img(src='map-logo.png', width="250", align = "center")),
   br(), 
-  h3("MAP syntax diagrams"),
+  h3("MAP syntax diagrams 0.2"),
   p("A research tool by",
     a("S. Plutniak", href="https://sebastien-plutniak.github.io",  target="_blank")),
   br(),
@@ -146,7 +145,7 @@ server <- function(input, output) {
      
     if( sum(names(data) %in% c("formula", "formule", "FORMULE", "FORMULA", "formule", "FORMULES")) == 0  ){
       showNotification("The data table must have a 'formule' column.",
-                       type = "error", duration = 40)
+                       type = "error", duration = 20)
     }
      items <- names(data)
      names(items) <- items
@@ -212,11 +211,11 @@ server <- function(input, output) {
       }
       lengths.df <- lapply(1:length(seq.list.full), function(x)
         data.frame(subset = names(seq.list.full)[x],
-                   Length = seqlength(seq.list.full[[x]]) ) )
+                   Length = seqlength(seq.list.full[[x]]) -1 ) ) # - le symbole initial
       lengths.df <- do.call("rbind", lengths.df)
       
       output$slider <- renderUI({ 
-        slider.min.max <- c(1, 8)
+        slider.min.max <- c(1, 12)
         if( ! is.null(input$seqlengths)){
           slider.min.max <- c(input$seqlengths[1], input$seqlengths[2])
         }
@@ -233,8 +232,8 @@ server <- function(input, output) {
         }
         ggplot() +
           theme_linedraw(base_size = 14) +
-          geom_path(data = lengths.df, aes(x = Length, color = subset, group = subset),
-                    stat="bin", bins = max(lengths.df$Length) - 1, size= .5) +
+          geom_freqpoly(data = lengths.df, aes(x = Length, color = subset, group = subset),
+                        size = .8) +
           geom_vline(aes(xintercept = slider.min.max[1]),
                      linetype = 2, color = "gray50")+
           geom_vline(aes(xintercept = slider.min.max[2]),
@@ -243,7 +242,8 @@ server <- function(input, output) {
                      aes(x = c(slider.min.max[1], slider.min.max[2]),
                          y = max(table(lengths.df$Length)) - max(table(lengths.df$Length)) * .1 ,
                          label = lab )) +
-          scale_color_viridis_d() +
+          scale_color_viridis_d(begin = 0, end = .8) +
+          scale_fill_viridis_d(begin = 0, end = .8) +
           scale_y_log10("Log(count)") + 
           scale_x_log10("Log(sequence length)", 
                         # breaks = 10^(-10:10), # log ticks
@@ -277,7 +277,25 @@ server <- function(input, output) {
       }
       
       # stats sur les données ----
+      # 1) stats sur les séquences:
       data.stats <- make_data_stats(seq.list)
+      # 2) entropie sur les formules:
+      formule.elements.list <- lapply(input$values[input$values != "All"],
+             function(sel){
+               # sélection variable %in% values :
+               selection.v <- eval(parse(text = paste0("data$", input$var))) %in% sel
+               # union des deux sélections :
+               sel.join <- selection.v & selection.len
+               data[ sel.join, ]$formule.elements
+             })
+      entropy.df <- sapply(formule.elements.list, function(x) {
+        entropy(table(unlist(x)))
+        
+      })
+      # fusion des résultats:
+      data.stats <- rbind(data.stats,
+                          "diversity of the elements" = round(entropy.df, 2))
+
       
       # calcul des taux de transition, conversion en graphe : ----
       seq.list.copy <- seq.list
@@ -394,9 +412,9 @@ server <- function(input, output) {
         if(input$graphDiff & length(g.list) == 2 ){ 
           g.list$"Difference" <- map_seq_diff(g.list[[1]], g.list[[2]])
         }
-        svg(file,  pointsize = 9, 
+        svg(file,  pointsize = 9 + length(input$values),
             width = input$seqlengths[2],
-            height = c(1 + ceiling( c(length(input$values)  + sum(length(input$values) == 1) * 2 + sum(input$graphDiff))  / 2) * 5  ) 
+            height = c(1 + ceiling( c(length(input$values) + sum(length(input$values) == 1) * 2 + sum(input$graphDiff))  / 2) * 5  )
         )
         par(mfrow = c(ceiling( length(g.list) / 2), ceiling(2 - 1/length(g.list)) ) )
         for(i in 1:length(g.list)){

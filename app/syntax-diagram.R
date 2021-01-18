@@ -1,23 +1,8 @@
-# Load packages
-# library(xtable) # pas utile dans le cadre de l'application
-
-packages <- c("NetworkDistance",  # pour nd.gdd
-              "geomorph", # pour rotate.coords() (rotation des coordonnées)
-              "igraph", # pour les manipulations et calcul des graphes
-              "reshape2", # pour melt()
-              "TraMineR", # pour seqdef(), seqtrate()
-              "plyr") # pour rbind.fill()
-
-# vérifie la présence des packages, les installe si absents
-pckge.check <- lapply(
-  packages,
-  FUN = function(x) {
-    if ( ! require(x, character.only = TRUE) ) {
-      install.packages(x, dependencies = TRUE)
-      library(x, character.only = TRUE)
-    }
-  }
-)
+library(igraph) # pour les manipulations et calcul des graphes
+library(reshape2) # pour melt()
+library(TraMineR) # pour seqdef(), seqtrate()
+library(plyr) # pour rbind.fill()
+library(NetworkDistance) # pour nd.gdd
 
 # fct ajoutant les formules reformatées:
 make_map_formula <- function(df, idElement){
@@ -37,7 +22,7 @@ make_map_formula <- function(df, idElement){
                                function(x) x[ ! x=="" ])
   # remplacement des id par un symbole "x" :
   df$formule.syntax.splited <- sapply(df$formule.splited, function(x){
-    overwrite <- grepl("[^+=/#()\\[\\]]+", x, perl=T) # marquage de tout sauf les opérateurs
+    overwrite <- grepl("[^+=/#()\\[\\]]+", x, perl=T) # remaplacer les éléments par "x"
     if( idElement[1] != 0 ){
       exception <- grepl(paste0("^", idElement[1], "$"),  x)  |
                    grepl(paste0("^", idElement[2], "$"),  x)
@@ -48,8 +33,20 @@ make_map_formula <- function(df, idElement){
   } )
   # concaténation: 
   df$formule.syntax <- sapply(df$formule.syntax.splited, paste0)
+  # séquence des "éléments":
+  df$formule.elements <- sapply(df$formule.splited, function(x){
+    selection <- grepl("[^+=/#()\\[\\]]+", x, perl=T)
+    x[selection]
+  } )
   df
 }
+
+# Fct: entropie de Shannon:
+entropy <- function(x) {
+  x <- x / sum(x)
+  -sum(x * log(x))
+}
+
 
 # Fct générant des objets séquences à partir des formules en chaînes de caractères:
 make_map_sequence <- function(df){
@@ -89,7 +86,7 @@ join_map_graphs <- function(g1, g2){
   E(g)$weight <- E(g)$weight_1
   g <- delete_edge_attr(g, "weight_1")
   g <- delete_edge_attr(g, "weight_2")
-  V(g)$name2 <- gsub("-[0-9]", "",  V(g)$name)
+  V(g)$name2 <- gsub("-[0-9]*", "",  V(g)$name)
   g$type <- "normal"
   g
 }
@@ -170,9 +167,9 @@ map_seq_diff <- function(g1, g2){
   V(g)[ ! sel.v ]$color <- "red"
   # préparation des coordonnées des noeuds :
   g$layout <- layout_as_tree(g, root = V(g)[1])
-  g$layout <- geomorph::rotate.coords(g$layout, type= "rotateCC")
+  g$layout <- g$layout %*% matrix(c(0, -1, 1, 0), 2, 2) #rotation
   g$layout <- norm_coords(g$layout)
-  V(g)$name2 <- gsub("-[0-9]", "",  V(g)$name)
+  V(g)$name2 <- gsub("-[0-9]*", "",  V(g)$name)
   g$type <- "difference"
   g$e.diff <- length(which(sel.e))  # nombre d'arêtes différentes
   g$v.diff <- length(which(! sel.v))  # nombre de sommets différentes
@@ -274,7 +271,12 @@ make_data_stats <- function(seq.list){
     "nr of selected sequences"   = sapply(seq.list, nrow),
     "nr of different sequences" = sapply(seq.list, function(seq)
                         length(which( ! duplicated(seq)))),
-    "sequence max. length" = sapply(seq.list, function(seq) max(seqlength(seq)) -1)
+    "sequence max. length" = sapply(seq.list, function(seq) max(seqlength(seq)) -1),
+    "sequence mean length" = paste(
+          round(sapply(seq.list, function(seq) mean(seqlength(seq)-1)), 1),
+                                           "±",
+          round(sapply(seq.list, function(seq) sd(seqlength(seq)-1)), 1)
+                                    )
   )
 }
 
@@ -285,13 +287,13 @@ map_seq_stats <- function(g.list, xtable=F){
   
   trans.stats <- rbind(
     "nr of nodes" = sapply(g.list, gorder),
-    "nr of different symbols" = sapply(g.list, function(x) length(unique(V(x)$name2)) - 1),
+    "nr of different symbols" = paste(sapply(g.list, function(x) length(unique(V(x)$name2)) - 1), "/ 9" ),
     "nr of terminal symbols" = sapply(g.list, function(x) length(which(degree(x, mode="out")==0))),
     "nr of articulation points" = sapply(lapply(g.list, function(x) induced_subgraph(x,  V(x)[-1] ) ),
                                      function(x) length(articulation_points(x))),
     "degree centralisation" = sapply(lapply(g.list, function(x) induced_subgraph(x,  V(x)[-1] ) ),
                function(x) round(centr_degree(x)[[2]], 2)),
-    "median probability" = sapply(g.list, function(x) round(median(E(x)$weight2), 2))
+    "median transition rate" = sapply(g.list, function(x) round(median(E(x)$weight2), 2))
     # "diameter mean prob." = sapply(g.list, function(x) .diameter.weight.mean(x)),
     # "shorter paths mean prob." =  sapply(g.list, .shortest.path.weight.mean)
     # c.bet = sapply(g.list, function(x) round(centr_betw(x)[[2]], 2))

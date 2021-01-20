@@ -5,10 +5,7 @@ library(plyr) # pour rbind.fill()
 library(NetworkDistance) # pour nd.gdd
 
 # fct ajoutant les formules reformatées:
-make_map_formula <- function(df, idElement){
-  # récupération des données de la colonne des formules
-  df$formule <- df[, which(names(df) %in% c("formula", "formule", "FORMULE", "FORMULA", "formule", "FORMULES"))]
-
+make_map_formula <- function(df, idElement){ # nécessite une colonne "formule"
   # sélection de la première formule s'il en existe plusieurs versions:
   df$formule.splited <- unlist(lapply(df$formule,
                           function(x) unlist(strsplit(x, "<br>"))[1] ))
@@ -256,11 +253,11 @@ global.trate <- function(g){
 # fct prenant une liste d'objets séquence et renvoyant un df de statistiques;
 make_element_stats <- function(seq.list, idElement){
   rbind(
-    "Id 1: nr of positions" = sapply(seq.list, function(x)
+    "Id 1: number of positions" = sapply(seq.list, function(x)
       length(V(x)[V(x)$name2 %in% idElement  ])),
     "Id 1: median in-degree" = sapply(seq.list, function(x){
-      median(strength(x, V(x)[V(x)$name2 %in% idElement ],
-                        mode = "in", weights = E(x)$weight2),  na.rm = T)
+      round(median(strength(x, V(x)[V(x)$name2 %in% idElement ],
+                        mode = "in", weights = E(x)$weight2),  na.rm = T), 4)
     })
   )
 }
@@ -268,8 +265,8 @@ make_element_stats <- function(seq.list, idElement){
 # fct prenant une liste d'objets séquence et renvoyant un df de statistiques;
 make_data_stats <- function(seq.list){
   rbind(
-    "nr of selected sequences"   = sapply(seq.list, nrow),
-    "nr of different sequences" = sapply(seq.list, function(seq)
+    "number of selected sequences"   = sapply(seq.list, nrow),
+    "number of different sequences" = sapply(seq.list, function(seq)
                         length(which( ! duplicated(seq)))),
     "sequence max. length" = sapply(seq.list, function(seq) max(seqlength(seq)) -1),
     "sequence mean length" = paste(
@@ -286,10 +283,10 @@ map_seq_stats <- function(g.list, xtable=F){
   g.list <- g.list[ sapply(g.list, function(g) g$type == "normal") ]
   
   trans.stats <- rbind(
-    "nr of nodes" = sapply(g.list, gorder),
-    "nr of different symbols" = paste(sapply(g.list, function(x) length(unique(V(x)$name2)) - 1), "/ 9" ),
-    "nr of terminal symbols" = sapply(g.list, function(x) length(which(degree(x, mode="out")==0))),
-    "nr of articulation points" = sapply(lapply(g.list, function(x) induced_subgraph(x,  V(x)[-1] ) ),
+    "number of nodes" = sapply(g.list, gorder),
+    "number of different symbols" = paste(sapply(g.list, function(x) length(unique(V(x)$name2)) - 1), "/ 9" ),
+    "number of terminal symbols" = sapply(g.list, function(x) length(which(degree(x, mode="out")==0))),
+    "number of articulation points" = sapply(lapply(g.list, function(x) induced_subgraph(x,  V(x)[-1] ) ),
                                      function(x) length(articulation_points(x))),
     "degree centralisation" = sapply(lapply(g.list, function(x) induced_subgraph(x,  V(x)[-1] ) ),
                function(x) round(centr_degree(x)[[2]], 2)),

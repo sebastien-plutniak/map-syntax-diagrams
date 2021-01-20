@@ -9,7 +9,7 @@ ui <- fluidPage(
   a(href="https://map-polytheisms.huma-num.fr",  target="_blank",
     img(src='map-logo.png', width="250", align = "center")),
   br(), 
-  h3("MAP syntax diagrams 0.2"),
+  h3("MAP syntax diagrams v0.2"),
   p("A research tool by",
     a("S. Plutniak", href="https://sebastien-plutniak.github.io",  target="_blank")),
   br(),
@@ -63,12 +63,12 @@ ui <- fluidPage(
              conditionalPanel(condition = "typeof output.userdata == 'undefined'",
                               tags$div(
                                 HTML("<div style=width:370px;, align=left>
-                    <p><b>Welcome to <i>MAP syntax diagrams</i>. </b></p>
-                    This application is intended for the analysis 
+                    <p><b>Welcome to <i>MAP syntax diagrams</i> </b></p>
+                    This application is intended for the analyse the structure 
                     of ancient divine onomastic sequences.   
-                    The input data must follow the format developed by the
-                    <a target=_blank, href=https://map-polytheisms.huma-num.fr/?lang=en>Mapping Ancient Polytheisms</a> project
-                    and be contained in a column entitled “formule”.
+                    Input data must follows the format defined in the ERC project
+                    <a target=_blank, href=https://map-polytheisms.huma-num.fr/?lang=en><i>Mapping Ancient Polytheisms</i></a>
+                    and be stored in a column entitled “formule”.
                     <p>In this format, an onomastic sequence such as: <br>
                     &nbsp; <i>lʿštrt lʾdny lʾšmn </i>  <br>
                     is represented as: <br>
@@ -76,11 +76,19 @@ ui <- fluidPage(
                     and encoded as: <br>
                     &nbsp; 1 / [ 2 # 3 ]
                     </p>
-                    Numbers refer to the elements of the sequence, four 
+                    Numbers refer to the elements of the sequence (nouns, adjectives, etc.), four 
                     symbols (+, /, #, =) qualify their relations, 
-                    and grouping is allowed using brackets and parentheses.
-                    <br><br>
-                    For more information, read the <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-02532617/document>documentation</a> (in French).                 
+                    and brackets and parentheses are used to group the elements in syntagmas.
+                    <hr>
+                    For more information:
+                    <ul>
+                      <li> <b>code source:</b> <a target=blank, href=https://github.com/sebastien-plutniak/map-syntax-diagrams>github repository</a>.</li>
+                      <li> <b>documentation:</b> Plutniak S., 2021, <i>MAP Syntax diagrams : visualiser, décrire et comparer les séquences onomastiques divines de l’Antiquité</i>, <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-02532617/document>hal-02532617</a>.</li> 
+                      <li> <b>reference:</b>  Plutniak S. 2021 “MAP syntax diagrams (Version v0.2)”. <i>Zenodo</i>. DOI: <a target=blank, href=https://doi.org/10.5281/zenodo.4443132>10.5281/zenodo.4443132</a>.
+                      
+                      </li>
+                    </ul>
+                    <hr>
                     </div>")  # 
                               )
                               ),
@@ -122,12 +130,31 @@ server <- function(input, output) {
   
   # récupération du tableau de l'utilisateur ----
   data <- reactive({
-        if(input$use_example == F){
-          read.csv(userFile()$datapath, header=T, #quote = "",
-                   sep=input$sep, stringsAsFactors = F)
+        if(input$use_example){
+          data <- read.csv("sample.csv", header=T, stringsAsFactors = F)
         }else{
-          read.csv("sample.csv", header=T, stringsAsFactors = F)
+          data <- read.csv(userFile()$datapath, header=T, #quote = "",
+                   sep=input$sep, stringsAsFactors = F)
         }
+    terms <- c("formula", "Formula", "FORMULA",
+               "formule", "Formule", "FORMULE",
+               "formules", "Formules", "FORMULES")
+    
+    if( sum(names(data) %in% terms) == 0 ){
+      showNotification("The table must have a valid 'formule' column.",
+                       type = "error", duration = 10)
+    }else{
+      # récupération des données de la colonne des formules
+      data$formule <- data[, which(names(data) %in% terms)[1] ]
+    }
+    # suppression des formules vides:
+    if( table(data$formule == "")[2] != 0 ){
+      showNotification(paste(table(data$formule == "")[2],
+                             "empty formules deleted."),
+                       type = "error", duration = 10)
+      data <- data[ ! data$formule =="", ]
+    }
+    data    
   })
   
   # aperçu du tableau de l'utilisateur ----
@@ -142,14 +169,10 @@ server <- function(input, output) {
   output$var <- renderUI({
     req(data)
     data <- data()
-     
-    if( sum(names(data) %in% c("formula", "formule", "FORMULE", "FORMULA", "formule", "FORMULES")) == 0  ){
-      showNotification("The data table must have a 'formule' column.",
-                       type = "error", duration = 20)
-    }
-     items <- names(data)
-     names(items) <- items
-     selectInput("var", "Variable:", items)
+ 
+    items <- names(data)
+    names(items) <- items
+    selectInput("var", "Variable:", items)
     })
 
     output$values <- renderUI({
@@ -160,9 +183,9 @@ server <- function(input, output) {
       
       times <- input$reset_input # pour permettre la remise à zéro
       div( # nécessaire pour permettre la remise à zéro
-      actionButton("reset_input", "Reset values"),
-      br(), br(),
-      checkboxGroupInput("values", "Values:", c("All", sort(val) ))
+        actionButton("reset_input", "Reset values"),
+        br(), br(),
+        checkboxGroupInput("values", "Values:", c("All", sort(val) ))
       )
     })
     
@@ -199,9 +222,9 @@ server <- function(input, output) {
       isolate({
       # calcul des longueurs des séquences ----
       seq.list.full <- lapply(input$values[input$values != "All"],
-                              function(sel){
+                              function(values){
                                 # sélection variable %in% values :
-                                selection.v <- eval(parse(text = paste0("data$", input$var))) %in% sel
+                                selection.v <- eval(parse(text = paste0("data$", input$var))) %in% values
                                 seq[ selection.v, ]
                               })
       names(seq.list.full) <- input$values[input$values != "All"]
@@ -226,7 +249,7 @@ server <- function(input, output) {
       
       # plot des longueurs des séquences  :
       output$seqlength <- renderPlot({
-        slider.min.max <- c(1, 8)
+        slider.min.max <- c(1, 12)
         if( ! is.null(input$seqlengths)){
           slider.min.max <- c(input$seqlengths[1], input$seqlengths[2])
         }
@@ -254,18 +277,19 @@ server <- function(input, output) {
       
       # sélection des sous-ensembles de séquences à étudier ----
       #  longueurs maximales de séquences : 
-      seq.min.max <- c(1, 8)
-      if( ! is.null(input$seqlengths)){
+      seq.min.max <- c(1, 12) # affectation des valeurs pour le 1er run.
+      if( ! is.null(input$seqlengths)){  # paramétrage pour les runs suivants.
         seq.min.max <- c(input$seqlengths[1], input$seqlengths[2])
       }
       
-      selection.len <- c(seqlength(seq) <= seq.min.max[2] + 1) &
-                       c(seqlength(seq) >= seq.min.max[1] + 1)
+      selection.len <- c(seqlength(seq) >= (seq.min.max[1] + 1) ) & # +1 pour le symbole initial
+                       c(seqlength(seq) <= (seq.min.max[2] + 1) )
+                       
       # stockage des sous-ensembles dans une liste :
       seq.list <- lapply(input$values[input$values != "All"],
-        function(sel){
+        function(values){
         # sélection variable %in% values :
-          selection.v <- eval(parse(text = paste0("data$", input$var))) %in% sel
+          selection.v <- eval(parse(text = paste0("data$", input$var))) %in% values
           # union des deux sélections :
           sel.join <- selection.v & selection.len
           seq[ sel.join, ]
@@ -281,22 +305,20 @@ server <- function(input, output) {
       data.stats <- make_data_stats(seq.list)
       # 2) entropie sur les formules:
       formule.elements.list <- lapply(input$values[input$values != "All"],
-             function(sel){
+             function(values){
                # sélection variable %in% values :
-               selection.v <- eval(parse(text = paste0("data$", input$var))) %in% sel
+               selection.v <- eval(parse(text = paste0("data$", input$var))) %in% values
                # union des deux sélections :
                sel.join <- selection.v & selection.len
                data[ sel.join, ]$formule.elements
              })
       entropy.df <- sapply(formule.elements.list, function(x) {
         entropy(table(unlist(x)))
-        
       })
       # fusion des résultats:
       data.stats <- rbind(data.stats,
                           "diversity of the elements" = round(entropy.df, 2))
 
-      
       # calcul des taux de transition, conversion en graphe : ----
       seq.list.copy <- seq.list
       seq.list <- lapply(seq.list, function(x){ seqtrate(x, time.varying=1) })
@@ -356,15 +378,14 @@ server <- function(input, output) {
         n.seq.total <- table(eval(parse(text = paste0("n.seq.total$", input$var))))
         
         if( is.na(input$idElement1) ){
-        stats <- rbind("Total nr of sequence" = c(n.seq.total),
+        stats <- rbind("total number of sequences" = c(n.seq.total),
                        data.stats,
                        map_seq_stats(g.list))
         }else{
-        stats <- rbind("n. sequences total" = c(n.seq.total),
+        stats <- rbind("total number of sequences" = c(n.seq.total),
                        data.stats,
                        make_element_stats(g.list, input$idElement1))
         }
-          
         stats
       })
       

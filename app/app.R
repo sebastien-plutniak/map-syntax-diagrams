@@ -83,7 +83,12 @@ ui <- fluidPage(
                     For more information:
                     <ul>
                       <li> <b>code source:</b> <a target=blank, href=https://github.com/sebastien-plutniak/map-syntax-diagrams>github repository</a>.</li>
-                      <li> <b>documentation:</b> Plutniak S., 2021, <i>MAP Syntax diagrams : visualiser, décrire et comparer les séquences onomastiques divines de l’Antiquité</i>, <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-02532617/document>hal-02532617</a>.</li> 
+                      <li> <b>documentation:</b> 
+                        <ul>
+                          <li> <b>report:</b> Plutniak S., 2021, <i>MAP Syntax diagrams : visualiser, décrire et comparer les séquences onomastiques divines de l’Antiquité</i>, <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-02532617/document>hal-02532617</a>.</li>
+                          <li> <b>poster:</b> Plutniak S., 2021, <i> MAP syntax diagrams: an online tool to visualise, describe, and compare Ancient divine onomastic sequences</i>, <a target=_blank, href=https://hal.archives-ouvertes.fr/hal-03118484/document>hal-03118484</a>.</li> 
+                        </ul>
+                      </li>
                       <li> <b>reference:</b>  Plutniak S. 2021 “MAP syntax diagrams (Version v0.2)”. <i>Zenodo</i>. DOI: <a target=blank, href=https://doi.org/10.5281/zenodo.4443132>10.5281/zenodo.4443132</a>.
                       
                       </li>

@@ -149,11 +149,11 @@ server <- function(input, output) {
       showNotification("The table must have a valid 'formule' column.",
                        type = "error", duration = 10)
     }else{
-      # récupération des données de la colonne des formules
+      # récupération des données de la colonne des formules:
       data$formule <- data[, which(names(data) %in% terms)[1] ]
     }
     # suppression des formules vides:
-    if( table(data$formule == "")[2] != 0 ){
+    if( sum(data$formule == "") != 0 ){
       showNotification(paste(table(data$formule == "")[2],
                              "empty formules deleted."),
                        type = "error", duration = 10)

@@ -9,7 +9,7 @@ ui <- fluidPage(
   a(href="https://map-polytheisms.huma-num.fr",  target="_blank",
     img(src='map-logo.png', width="250", align = "center")),
   br(), 
-  h3("MAP syntax diagrams v0.2"),
+  h3("MAP syntax diagrams v0.2.1"),
   p("A research tool by",
     a("S. Plutniak", href="https://sebastien-plutniak.github.io",  target="_blank")),
   br(),

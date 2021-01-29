@@ -9,7 +9,7 @@ ui <- fluidPage(
   a(href="https://map-polytheisms.huma-num.fr",  target="_blank",
     img(src='map-logo.png', width="250", align = "center")),
   br(), 
-  h3("MAP syntax diagrams v0.2.1"),
+  h3("MAP syntax diagrams v0.2.2"),
   p("A research tool by",
     a("S. Plutniak", href="https://sebastien-plutniak.github.io",  target="_blank")),
   br(),
@@ -291,6 +291,7 @@ server <- function(input, output) {
                        c(seqlength(seq) <= (seq.min.max[2] + 1) )
                        
       # stockage des sous-ensembles dans une liste :
+      seq.list <- list()
       seq.list <- lapply(input$values[input$values != "All"],
         function(values){
         # sélection variable %in% values :
@@ -309,7 +310,7 @@ server <- function(input, output) {
       # 1) stats sur les séquences:
       data.stats <- make_data_stats(seq.list)
       # 2) entropie sur les formules:
-      formule.elements.list <- lapply(input$values[input$values != "All"],
+      formule.elements.list <- lapply(input$values,                                      
              function(values){
                # sélection variable %in% values :
                selection.v <- eval(parse(text = paste0("data$", input$var))) %in% values
@@ -381,6 +382,10 @@ server <- function(input, output) {
         
         n.seq.total <- data[ eval(parse(text = paste0("data$", input$var))) %in% input$values, ]
         n.seq.total <- table(eval(parse(text = paste0("n.seq.total$", input$var))))
+        
+        if("All" %in% input$values){
+          n.seq.total <- c(n.seq.total, "All" = nrow(data))
+        }
         
         if( is.na(input$idElement1) ){
         stats <- rbind("total number of sequences" = c(n.seq.total),

@@ -92,7 +92,8 @@ join_map_graphs <- function(g1, g2){
 map_seq_plot <- function(g, type="normal", main="", idElement=NULL){
   # préparation des coordonnées des sommets :
   g$layout <- layout_as_tree(g, root = V(g)[1])
-  g$layout <- geomorph::rotate.coords(g$layout, type= "rotateCC")
+  # g$layout <- geomorph::rotate.coords(g$layout, type= "rotateCC")
+  g$layout <- g$layout %*% matrix(c(0, -1, 1, 0), 2, 2)
   g$layout <- norm_coords(g$layout)
   V(g)$shape <- "circle"
   # marquage de l'éventuel élément sélectionné par l'utilisateur:

@@ -64,9 +64,9 @@ ui <- fluidPage(
                               tags$div(
                                 HTML("<div style=width:370px;, align=left>
                     <p><b>Welcome to <i>MAP syntax diagrams</i> </b></p>
-                    This application is intended for the analyse the structure 
+                    This application is a tool for the structural analysis 
                     of ancient divine onomastic sequences.   
-                    Input data must follows the format defined in the ERC project
+                    Input data must follow the format defined in the ERC project
                     <a target=_blank, href=https://map-polytheisms.huma-num.fr/?lang=en><i>Mapping Ancient Polytheisms</i></a>
                     and be stored in a column entitled “formule”.
                     <p>In this format, an onomastic sequence such as: <br>
